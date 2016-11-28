@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U2BQX0GDB",
+        "text": "Note 7\n<https:\/\/www.facebook.com\/GAWorldz\/videos\/735137569958451\/>",
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com",
+                "author_name": "GA World",
+                "author_link": "https:\/\/www.facebook.com\/GAWorldz\/",
+                "fallback": "Facebook Video: ",
+                "from_url": "https:\/\/www.facebook.com\/GAWorldz\/videos\/735137569958451\/",
+                "id": 1
+            }
+        ],
+        "ts": "1476037606.000061",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U2BR1HW2V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

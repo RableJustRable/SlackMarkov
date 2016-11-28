@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U2C2Q26DV",
+        "text": "<@U2C2Q26DV|paul> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473949277.000002"
+    },
+    {
+        "user": "U2C2QB893",
+        "text": "<@U2C2QB893|mszczepanski> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473949718.000003"
+    },
+    {
+        "user": "U2C2ZH39R",
+        "text": "<@U2C2ZH39R|quinn> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473957436.000004"
+    },
+    {
+        "user": "U2C667WD6",
+        "text": "<@U2C667WD6|charles_herzog> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473964984.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Here is a quick survey just to get an idea of everyones interests and the type of projects that they would like to work on. <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc8Fbv0F-UK50Kn5Xed9QjXoOuKthOzMwWZzKDAznlKrDkSpg\/viewform>",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Quick Informational Survey",
+                "title_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc8Fbv0F-UK50Kn5Xed9QjXoOuKthOzMwWZzKDAznlKrDkSpg\/viewform",
+                "fallback": "Google Docs: Quick Informational Survey",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/idhtR-tEhFGVTXd-t4TPgFmX7C46lFyPypmQuhGsSokjL6juk2y9-PJVUHoOSkr6_wc",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc8Fbv0F-UK50Kn5Xed9QjXoOuKthOzMwWZzKDAznlKrDkSpg\/viewform",
+                "image_bytes": 36243,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1
+            }
+        ],
+        "ts": "1473970095.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2BQB4ADS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U2C7TGDQX",
+        "text": "<@U2C7TGDQX|astrapto> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473971090.000004"
+    },
+    {
+        "user": "U2C9RB6TE",
+        "text": "<@U2C9RB6TE|samannin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473986556.000002"
+    },
+    {
+        "user": "U2CALVADD",
+        "text": "<@U2CALVADD|madarcherjr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473991469.000003"
+    }
+]

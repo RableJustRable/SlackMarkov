@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "So Google has made another flop of a chat app",
+        "ts": "1474477870.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "Allo is out",
+        "ts": "1474477874.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "I haven't used it. But it looks kind of neat",
+        "ts": "1474477958.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "It is",
+        "ts": "1474478192.000006"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "It has Google Assistant built in",
+        "ts": "1474478206.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "And encrypted chat support",
+        "ts": "1474478213.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "It's a very nice app without proper sms fallback support which will inhibit user adoption imo",
+        "ts": "1474478292.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "I should add that it is end to end encryption with incognito chats",
+        "ts": "1474478366.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2DPNVB6X|jclouthi> uploaded a file: <https:\/\/acmflint.slack.com\/files\/jclouthi\/F2E8L10LB\/problems.rtf|problems.rtf> and commented: Here's a fun raft problem we can solve at a meeting.",
+        "file": {
+            "id": "F2E8L10LB",
+            "created": 1474478394,
+            "timestamp": 1474478394,
+            "name": "problems.rtf",
+            "title": "problems.rtf",
+            "mimetype": "text\/rtf",
+            "filetype": "rtf",
+            "pretty_type": "Rich Text File",
+            "user": "U2DPNVB6X",
+            "editable": false,
+            "size": 22046647,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2E8L10LB\/problems.rtf?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2E8L10LB\/download\/problems.rtf?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "permalink": "https:\/\/acmflint.slack.com\/files\/jclouthi\/F2E8L10LB\/problems.rtf",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2E8L10LB-cec5f7295b",
+            "channels": [
+                "C2BQB4DEY"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2E8L1D3M",
+                "created": 1474478394,
+                "timestamp": 1474478394,
+                "user": "U2DPNVB6X",
+                "is_intro": true,
+                "comment": "Here's a fun raft problem we can solve at a meeting.",
+                "channel": ""
+            }
+        },
+        "user": "U2DPNVB6X",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2DPNVB6X|jclouthi>",
+        "bot_id": null,
+        "ts": "1474478396.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "<!channel>: so I just had a meeting with my org today,  about the Pokemon go.  They came to the conclusion that we should postpone it. ",
+        "ts": "1474497984.000012"
+    }
+]

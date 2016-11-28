@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/roll 1d20",
+        "ts": "1474993651.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@quinn rolled 5",
+                "text": "@quinn rolled *5*",
+                "id": 1,
+                "color": "d00000",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "5",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474993651.000003"
+    }
+]

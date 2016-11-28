@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2BRD3V34",
+        "text": "<@U2BRD3V34|mwoods> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474994106.000002"
+    },
+    {
+        "user": "U2BRD3V34",
+        "text": "<@U2BRD3V34|mwoods> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1474994195.000003"
+    }
+]

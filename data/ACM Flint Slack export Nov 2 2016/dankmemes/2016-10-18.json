@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2C2ZH39R|quinn> uploaded a file: <https:\/\/acmflint.slack.com\/files\/quinn\/F2R464KHT\/1476801291482.jpg|1476801291482.jpg>",
+        "file": {
+            "id": "F2R464KHT",
+            "created": 1476834308,
+            "timestamp": 1476834308,
+            "name": "1476801291482.jpg",
+            "title": "1476801291482.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U2C2ZH39R",
+            "editable": false,
+            "size": 147558,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2R464KHT\/1476801291482.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2R464KHT\/download\/1476801291482.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R464KHT-22551cc96a\/1476801291482_64.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R464KHT-22551cc96a\/1476801291482_80.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R464KHT-22551cc96a\/1476801291482_360.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360_w": 360,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R464KHT-22551cc96a\/1476801291482_480.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_480_w": 480,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R464KHT-22551cc96a\/1476801291482_160.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R464KHT-22551cc96a\/1476801291482_720.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_720_w": 720,
+            "thumb_720_h": 720,
+            "image_exif_rotation": 1,
+            "original_w": 960,
+            "original_h": 960,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/quinn\/F2R464KHT\/1476801291482.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2R464KHT-a15ae50bd7",
+            "channels": [
+                "C2BPB9UNP"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U2C2ZH39R",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2C2ZH39R|quinn>",
+        "bot_id": null,
+        "ts": "1476834310.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "lol",
+        "ts": "1476834327.000003"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2BPDGZA7|rmkroll> uploaded a file: <https:\/\/acmflint.slack.com\/files\/rmkroll\/F2R70NX6W\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F2R70NX6W",
+            "created": 1476858011,
+            "timestamp": 1476858011,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/gif",
+            "filetype": "gif",
+            "pretty_type": "GIF",
+            "user": "U2BPDGZA7",
+            "editable": false,
+            "size": 182562,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2R70NX6W\/slack_for_ios_upload.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2R70NX6W\/download\/slack_for_ios_upload.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R70NX6W-6fca7a12ad\/slack_for_ios_upload_64.png?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R70NX6W-6fca7a12ad\/slack_for_ios_upload_80.png?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R70NX6W-6fca7a12ad\/slack_for_ios_upload_360.png?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360_w": 200,
+            "thumb_360_h": 150,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R70NX6W-6fca7a12ad\/slack_for_ios_upload_160.png?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "image_exif_rotation": 1,
+            "original_w": 200,
+            "original_h": 150,
+            "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2R70NX6W-6fca7a12ad\/slack_for_ios_upload_deanimate_gif.png?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "permalink": "https:\/\/acmflint.slack.com\/files\/rmkroll\/F2R70NX6W\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2R70NX6W-281ee5f20c",
+            "channels": [
+                "C2BPB9UNP"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U2BPDGZA7",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2BPDGZA7|rmkroll>",
+        "bot_id": null,
+        "ts": "1476858014.000004"
+    }
+]

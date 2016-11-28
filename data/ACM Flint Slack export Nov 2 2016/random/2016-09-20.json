@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2DPNVB6X",
+        "text": "<@U2DPNVB6X|jclouthi> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474395557.000002"
+    },
+    {
+        "user": "U2DTJTQBZ",
+        "text": "<@U2DTJTQBZ|dr-a> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474404124.000002"
+    }
+]

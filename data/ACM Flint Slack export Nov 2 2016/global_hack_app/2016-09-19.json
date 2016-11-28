@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U2BR1HW2V",
+        "text": "<@U2BR1HW2V|johncollins> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474330007.000002"
+    },
+    {
+        "user": "U2BR1HW2V",
+        "purpose": "This channel is for anyone that is interested in going to participate in the Global Hack event to apply to the team.",
+        "text": "<@U2BR1HW2V|johncollins> set the channel purpose: This channel is for anyone that is interested in going to participate in the Global Hack event to apply to the team.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1474330007.000003"
+    },
+    {
+        "user": "U2BQB4ADS",
+        "inviter": "U2BR1HW2V",
+        "text": "<@U2BQB4ADS|adampowe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474330008.000004"
+    },
+    {
+        "user": "U2BQQPXHA",
+        "inviter": "U2BR1HW2V",
+        "text": "<@U2BQQPXHA|phil_boyd> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474330008.000005"
+    },
+    {
+        "user": "U2BQQEXL0",
+        "text": "<@U2BQQEXL0|airsick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474330551.000006"
+    },
+    {
+        "user": "U2BR93Z6K",
+        "text": "<@U2BR93Z6K|latunska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474331865.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "Name: Alex\nProject experience: Custom Chess Game with AI movement, JUnit tests and user flow diagrams included. (was for intro to software engineering)\nProgram languages: Java, C++ \nWorking on a android app which acts as a digital log book for truckers",
+        "ts": "1474331876.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "<http:\/\/github.com\/latunska\/Chess|github.com\/latunska\/Chess>",
+        "ts": "1474332422.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "Terrible organization though",
+        "ts": "1474332445.000010"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/acmflint.slack.com\/services\/B2DEGA5AL|github>",
+        "bot_id": "B2DEGA5AL",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U2BR93Z6K",
+        "ts": "1474333301.000011"
+    }
+]

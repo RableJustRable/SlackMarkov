@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "midterms arent graded. anyone suprised?",
+        "ts": "1477512222.000010"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "And the TA is grading them. Does anyone  know who it is?",
+        "ts": "1477512405.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/giphy three stooges",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-three-ages-DQOAYyAwPsgCY>",
+                "image_url": "http:\/\/media.giphy.com\/media\/DQOAYyAwPsgCY\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 141,
+                "image_bytes": 821623,
+                "is_animated": true,
+                "title": "three stoges",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-three-ages-DQOAYyAwPsgCY"
+            }
+        ],
+        "edited": {
+            "user": "U2C9RB6TE",
+            "ts": "1477512506.000000"
+        },
+        "ts": "1477512478.000012"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "whoops. no idea tho",
+        "ts": "1477512513.000014"
+    }
+]

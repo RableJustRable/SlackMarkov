@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U2BR5PCP9",
+        "text": "<@U2BR5PCP9|jarmille> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477434169.000002"
+    }
+]

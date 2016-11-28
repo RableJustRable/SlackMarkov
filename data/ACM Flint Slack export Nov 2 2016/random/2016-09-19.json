@@ -1,0 +1,231 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2BRD3V34|mwoods> uploaded a file: <https:\/\/acmflint.slack.com\/files\/mwoods\/F2DDYBF88\/snapchat-7947068381539621182.jpg|Slack for Android Upload>",
+        "file": {
+            "id": "F2DDYBF88",
+            "created": 1474328947,
+            "timestamp": 1474328947,
+            "name": "Snapchat-7947068381539621182.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U2BRD3V34",
+            "editable": false,
+            "size": 381579,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2DDYBF88\/snapchat-7947068381539621182.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2DDYBF88\/download\/snapchat-7947068381539621182.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_64.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_80.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_360.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_480.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_160.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_720.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_960.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDYBF88-1077eb1b24\/snapchat-7947068381539621182_1024.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1080,
+            "original_h": 1920,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/mwoods\/F2DDYBF88\/snapchat-7947068381539621182.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2DDYBF88-cae3732f8e",
+            "channels": [
+                "C2BQE4DB8"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 0
+        },
+        "user": "U2BRD3V34",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2BRD3V34|mwoods>",
+        "bot_id": null,
+        "ts": "1474328952.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "<!channel>: ",
+        "ts": "1474328954.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQPXHA",
+        "text": "Is the Friday night of Halloween weekend really the best time to hold this event?",
+        "ts": "1474329431.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Really? Wow",
+        "ts": "1474329458.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Isn't that devil's night?",
+        "ts": "1474329459.000006"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "Yeah seems like bad timing",
+        "ts": "1474329471.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "I meant September. ",
+        "ts": "1474329510.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Oh cool. Haha.",
+        "ts": "1474329518.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "seems like a great time :wink:",
+        "ts": "1474329622.000010"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2BRD3V34|mwoods> uploaded a file: <https:\/\/acmflint.slack.com\/files\/mwoods\/F2DCKUP51\/snapchat-1004116289064743917.jpg|Slack for Android Upload> and commented: THIS IS NOT THE ACTUAL FLYER JUST MY WRITE TO SUBMIT TO THE ORG ",
+        "file": {
+            "id": "F2DCKUP51",
+            "created": 1474329649,
+            "timestamp": 1474329649,
+            "name": "Snapchat-1004116289064743917.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U2BRD3V34",
+            "editable": false,
+            "size": 476722,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2DCKUP51\/snapchat-1004116289064743917.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2DCKUP51\/download\/snapchat-1004116289064743917.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_64.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_80.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_360.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_480.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_160.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_720.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_960.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DCKUP51-25793c5760\/snapchat-1004116289064743917_1024.jpg?t=xoxe-79847196162-99872560069-99865768278-75f090a8d9",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1080,
+            "original_h": 1920,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/mwoods\/F2DCKUP51\/snapchat-1004116289064743917.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2DCKUP51-bd464237c3",
+            "channels": [
+                "C2BQE4DB8"
+            ],
+            "groups": [
+    
+            ],
+            "ims": [
+    
+            ],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2DEJHL7L",
+                "created": 1474329649,
+                "timestamp": 1474329649,
+                "user": "U2BRD3V34",
+                "is_intro": true,
+                "comment": "THIS IS NOT THE ACTUAL FLYER JUST MY WRITE TO SUBMIT TO THE ORG ",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U2BQB4ADS",
+                        "U2BR93Z6K"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U2BRD3V34",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2BRD3V34|mwoods>",
+        "bot_id": null,
+        "ts": "1474329653.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "<!here>: ",
+        "ts": "1474329667.000012"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "<@U2BRD3V34>  Looks good although how many random people are you expecting to find standing around outside between 6 and 8, also how would we determine if they are needy?",
+        "ts": "1474330072.000015"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "In my opinion,  everyone is in need and like free items.  If we don't pass them all out then,  then we will save them for another event <@U2BR93Z6K> ",
+        "ts": "1474331427.000016"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "<@U2BRD3V34> Good enough for me, if I don't work I will be there",
+        "ts": "1474331468.000017"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "Great!!! ",
+        "ts": "1474331677.000018"
+    }
+]

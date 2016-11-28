@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "So theres a dice bot for slack\n<https:\/\/dice-b.appspot.com\/>",
+        "ts": "1474938528.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Also apparently anyone can autorize apps to run on slack",
+        "ts": "1474941442.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/roll 2d6",
+        "ts": "1474941452.000004"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@samannin rolled 3",
+                "text": "@samannin rolled *3*",
+                "id": 1,
+                "color": "d00000",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "2d6",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "1 2",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1474941452.000005"
+    }
+]
