@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "<@U2C2QB893>:  hey,  are available to tutor today? ",
+        "ts": "1475524011.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "I'm not sure on how to work the tutor connection website. ",
+        "ts": "1475524040.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "<https:\/\/open.kattis.com\/countries\/USA\/MI>",
+        "ts": "1475524844.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "<https:\/\/open.kattis.com\/problems\/timeloop> \nA simple for loop problem has a memory limit of 1gb...",
+        "edited": {
+            "user": "U2C9RB6TE",
+            "ts": "1475526039.000000"
+        },
+        "ts": "1475526030.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "we are working on getting a UM Flint team set up on here",
+        "ts": "1475526082.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "I kind of want to be at least #3 on this site, but if we could beat the ann arbor campus i would be estatic",
+        "ts": "1475526117.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "did you guys submit a request?",
+        "ts": "1475527111.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "yeah, we are waiting for it to be approved",
+        "ts": "1475527127.000010"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "maybe dont answer any questions until it is, haha",
+        "ts": "1475527136.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Also theres a channel open for this now",
+        "ts": "1475541194.000012"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Im voting we try to solve cuting a polygon at the next meeting\n<https:\/\/open.kattis.com\/problems\/cuttingpolygon>",
+        "ts": "1475959158.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2BQX0GDB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "I'm down",
+        "ts": "1475959193.000003"
+    }
+]

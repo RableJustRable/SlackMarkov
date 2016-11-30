@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Can we make a pnp channel?",
+        "ts": "1475344486.000002",
+        "reactions": [
+            {
+                "name": "paul",
+                "users": [
+                    "U2BQXETL5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2BQQPXHA",
+        "text": "You know that anyone can make channels right? ",
+        "ts": "1475344543.000003"
+    }
+]

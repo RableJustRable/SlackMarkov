@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U2BQB4ADS",
+        "text": "<@U2BQB4ADS|adampowe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473889969.000002"
+    },
+    {
+        "user": "U2BQX0GDB",
+        "text": "<@U2BQX0GDB|anjolly> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473891763.000003"
+    },
+    {
+        "user": "U2BQQEXL0",
+        "text": "<@U2BQQEXL0|airsick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473891790.000004"
+    },
+    {
+        "user": "U2BQXETL5",
+        "text": "<@U2BQXETL5|brianc> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473891865.000005"
+    },
+    {
+        "user": "U2BR1HW2V",
+        "text": "<@U2BR1HW2V|johncollins> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473891939.000006"
+    },
+    {
+        "user": "U2BR2PVPT",
+        "text": "<@U2BR2PVPT|bfauble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473892174.000007"
+    },
+    {
+        "user": "U2BQQPXHA",
+        "text": "<@U2BQQPXHA|phil_boyd> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473892489.000008"
+    },
+    {
+        "user": "U2BPDGZA7",
+        "text": "<@U2BPDGZA7|rmkroll> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473892650.000009"
+    },
+    {
+        "user": "U2BR5PCP9",
+        "text": "<@U2BR5PCP9|jarmille> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473892880.000010"
+    },
+    {
+        "user": "U2BRD3V34",
+        "text": "<@U2BRD3V34|mwoods> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473892956.000011"
+    },
+    {
+        "user": "U2BR93Z6K",
+        "text": "<@U2BR93Z6K|latunska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473893583.000012"
+    },
+    {
+        "user": "U2BR29RMW",
+        "text": "<@U2BR29RMW|copenblend> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473894227.000013"
+    },
+    {
+        "user": "U2BPMSLNP",
+        "text": "<@U2BPMSLNP|shaun.sams> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473894404.000014"
+    },
+    {
+        "user": "U2BRDR2MD",
+        "text": "<@U2BRDR2MD|markhammond215> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473894589.000015"
+    },
+    {
+        "user": "U2BPQSV3M",
+        "text": "<@U2BPQSV3M|sbogala> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473895088.000016"
+    },
+    {
+        "user": "U2BR8VDL4",
+        "text": "<@U2BR8VDL4|aditikav> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473896516.000017"
+    },
+    {
+        "user": "U2BQ0KDFD",
+        "text": "<@U2BQ0KDFD|sethwilson> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473897429.000018"
+    }
+]

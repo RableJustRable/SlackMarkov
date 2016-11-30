@@ -1,0 +1,317 @@
+[
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "mod pls",
+        "ts": "1475679227.000004",
+        "reactions": [
+            {
+                "name": "paul",
+                "users": [
+                    "U2C2Q26DV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "heads up, the one title Aaah! is very easy and is for some reason worth 1.5 points.  Also, it's beiber themed, so theres that.",
+        "ts": "1475679244.000005"
+    },
+    {
+        "user": "U2C2Q26DV",
+        "text": "<@U2C2Q26DV|paul> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475679298.000006",
+        "reactions": [
+            {
+                "name": "piggy",
+                "users": [
+                    "U2BQB4ADS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U2BPDGZA7",
+        "text": "<@U2BPDGZA7|rmkroll> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475684813.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "We are 2.5 points from being above Dearborn",
+        "ts": "1475686250.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "And that aaah one was easy enough I was able to code it on my phone",
+        "ts": "1475686318.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Yeah",
+        "ts": "1475686332.000010"
+    },
+    {
+        "user": "U2BQXETL5",
+        "text": "<@U2BQXETL5|brianc> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475690780.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Sam you figure out the towers of power yet?",
+        "ts": "1475698513.000012"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Nope",
+        "ts": "1475698578.000013"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "hurry up, we are only .5 away from Dearborn",
+        "ts": "1475698727.000014"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": ".2",
+        "ts": "1475698756.000015"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "oh!",
+        "ts": "1475698777.000016"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Dang you guys I'm going to have to get a bunch done tonight to get a lead on you all.",
+        "ts": "1475698797.000017"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "cole will not be beaten",
+        "ts": "1475699143.000018"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Just beat dearborn.",
+        "ts": "1475699551.000019"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "COOOOOOLLLLEEETRAAAAIIINNNNNN",
+        "ts": "1475699571.000020"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "and also sam",
+        "ts": "1475699599.000021"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "kinda",
+        "ts": "1475699600.000022"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "We need a bot that tracks this",
+        "ts": "1475699642.000023"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "makes an announcement everytime someones score goes up",
+        "ts": "1475699696.000024"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "idk, mine changes a lot for no reason",
+        "ts": "1475699704.000025"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "When I submitted the last problem I saw coles score go down by .1. Im guessing he had already solved the problem I submitted and by me submitting it lowered the score",
+        "ts": "1475699761.000026"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "i wouldnt think it would go down by a full point though, thats a lot",
+        "ts": "1475699781.000027"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "mine just keeps fluctuating between 9.9 and 9.8",
+        "ts": "1475699794.000028"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": ".1, im an idiot",
+        "ts": "1475699851.000029"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Whats new",
+        "ts": "1475699863.000030"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": ":paul:",
+        "ts": "1475699887.000031"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": ":100:",
+        "ts": "1475700344.000032"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "I wish the site gave more feedback if you have a wrong answer",
+        "ts": "1475700907.000033"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "you can download the sample data i guess, if you need more sample cases to test",
+        "ts": "1475700949.000034"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "I have one that works for all the sample data but fail when I run it",
+        "ts": "1475701137.000035"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "which one is it?",
+        "ts": "1475701160.000036"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "Reverse binary numbers",
+        "ts": "1475701176.000037"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "anyone else do that one yet?",
+        "ts": "1475701194.000038"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "no",
+        "ts": "1475701294.000039"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "anyone else?",
+        "ts": "1475701311.000040"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "I did it in java",
+        "ts": "1475701541.000041"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "<@U2BQB4ADS> almost always the sample data you can download is already on the page",
+        "ts": "1475701969.000042"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "awesome",
+        "ts": "1475702086.000043"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "So at this point I think we give it another day and cole will be top 10 in state.",
+        "ts": "1475712544.000044"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "Lol I'm already top 20",
+        "ts": "1475712746.000045"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "I know. You are cranking them out. Doing lots of low points or high points?",
+        "ts": "1475712790.000046"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "All the easy ones",
+        "ts": "1475713089.000047"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Cole.... Every time I start catching you. You start doing more problems.",
+        "ts": "1475724260.000048"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "Because I see you doing more!",
+        "ts": "1475727331.000049"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "Stop it!",
+        "ts": "1475727333.000050"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "On a bright note we are catching the number 5 slot pretty quickly",
+        "ts": "1475731014.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "And both in the top 20 in Michigan",
+        "ts": "1475731032.000003"
+    }
+]

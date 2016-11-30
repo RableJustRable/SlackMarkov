@@ -1,0 +1,141 @@
+[
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "\n    <!channel> the meeting is tonight at 5:30 right?",
+        "ts": "1474298331.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Yes",
+        "ts": "1474315291.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "My class doesn't end until 5:40. I want to discuss the event I mention earlier ",
+        "ts": "1474315345.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "So I will be around 5:40ish.",
+        "ts": "1474315365.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Sounds good",
+        "ts": "1474315373.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "Ok",
+        "ts": "1474317075.000006"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "You know, I don't think there is very wide spread adoption of slack",
+        "ts": "1474317114.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "I use Discord mostly, I use it too much actually",
+        "ts": "1474319334.000008"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2BRD3V34|mwoods> uploaded a file: <https:\/\/acmflint.slack.com\/files\/mwoods\/F2DDXJYGN\/snapchat-7947068381539621182.jpg|Slack for Android Upload>",
+        "file": {
+            "id": "F2DDXJYGN",
+            "created": 1474328900,
+            "timestamp": 1474328900,
+            "name": "Snapchat-7947068381539621182.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U2BRD3V34",
+            "editable": false,
+            "size": 381579,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2DDXJYGN\/snapchat-7947068381539621182.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2DDXJYGN\/download\/snapchat-7947068381539621182.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_64.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_80.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_360.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_480.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_160.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_720.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_960.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2DDXJYGN-645bdc9d6f\/snapchat-7947068381539621182_1024.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1080,
+            "original_h": 1920,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/mwoods\/F2DDXJYGN\/snapchat-7947068381539621182.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2DDXJYGN-1591ad46e5",
+            "channels": [
+                "C2BQB4DEY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U2BRD3V34",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2BRD3V34|mwoods>",
+        "bot_id": null,
+        "ts": "1474328903.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BRD3V34",
+        "text": "<!channel>: ",
+        "ts": "1474328934.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "<!channel> Anyone interested in going to Global Hack please post your name and a list of projects or experience in the global_hack_app channel.",
+        "ts": "1474330147.000004",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2BQQPXHA",
+                    "U2BR93Z6K",
+                    "U2DPNVB6X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2BQQPXHA",
+        "text": "Include a github link if you can",
+        "ts": "1474332219.000007"
+    }
+]

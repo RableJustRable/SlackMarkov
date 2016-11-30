@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U2CK05MGS",
+        "text": "<@U2CK05MGS|garnerlogan65> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474062806.000002"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2CK05MGS|garnerlogan65> uploaded a file: <https:\/\/acmflint.slack.com\/files\/garnerlogan65\/F2CM3F6MS\/stallman.jpg|stallman.jpg> and commented: Respect the beard.",
+        "file": {
+            "id": "F2CM3F6MS",
+            "created": 1474062832,
+            "timestamp": 1474062832,
+            "name": "stallman.jpg",
+            "title": "stallman.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U2CK05MGS",
+            "editable": false,
+            "size": 59701,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2CM3F6MS\/stallman.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2CM3F6MS\/download\/stallman.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2CM3F6MS-70121e2f5c\/stallman_64.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2CM3F6MS-70121e2f5c\/stallman_80.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2CM3F6MS-70121e2f5c\/stallman_360.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2CM3F6MS-70121e2f5c\/stallman_480.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2CM3F6MS-70121e2f5c\/stallman_160.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "image_exif_rotation": 1,
+            "original_w": 620,
+            "original_h": 465,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/garnerlogan65\/F2CM3F6MS\/stallman.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2CM3F6MS-aa56279cfe",
+            "channels": [
+                "C2BPB9UNP"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2CMPS7PC",
+                "created": 1474062832,
+                "timestamp": 1474062832,
+                "user": "U2CK05MGS",
+                "is_intro": true,
+                "comment": "Respect the beard.",
+                "channel": ""
+            }
+        },
+        "user": "U2CK05MGS",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2CK05MGS|garnerlogan65>",
+        "bot_id": null,
+        "ts": "1474062834.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "I think this counts as a dank maymay... <https:\/\/www.youtube.com\/watch?v=9sJUDx7iEJw>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Richard Stallman Free software Song",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9sJUDx7iEJw",
+                "author_name": "Ruddy Catal\u00e1n",
+                "author_link": "https:\/\/www.youtube.com\/user\/AZATHOR",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9sJUDx7iEJw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Richard Stallman Free software Song",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/9sJUDx7iEJw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9sJUDx7iEJw",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1474063013.000004"
+    },
+    {
+        "user": "U2C2QB893",
+        "text": "<@U2C2QB893|mszczepanski> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474063147.000006"
+    },
+    {
+        "user": "U2BRD3V34",
+        "text": "<@U2BRD3V34|mwoods> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474071110.000007"
+    },
+    {
+        "user": "U2BRD3V34",
+        "text": "<@U2BRD3V34|mwoods> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1474071230.000008"
+    }
+]

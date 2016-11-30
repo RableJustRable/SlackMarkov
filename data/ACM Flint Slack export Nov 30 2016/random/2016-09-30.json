@@ -1,0 +1,494 @@
+[
+    {
+        "type": "message",
+        "user": "U2CALVADD",
+        "text": "\/roll 7d6",
+        "ts": "1475260213.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@madarcherjr rolled 24",
+                "text": "@madarcherjr rolled *24*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "7d6",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "5 1 2 1 6 6 3",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475260213.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "You come to a river. Do you try to swim across or take the path around it?",
+        "ts": "1475272951.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "What do I have on my person",
+        "ts": "1475272983.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Backpack. 20ft rope. Dagger. Rations. Tinderbox and flint. And a hatchet. ",
+        "ts": "1475273184.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "How wide and fast is the river?",
+        "ts": "1475273241.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Roll a perception check",
+        "ts": "1475273435.000006"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/roll 1d20",
+        "ts": "1475273456.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@johncollins rolled 16",
+                "text": "@johncollins rolled *16*",
+                "id": 1,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "16",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475273456.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Its 10ft wide and moving fast enough where you couldn't move through it without any help. ",
+        "ts": "1475273850.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Are there any trees I can lasso with my rope?",
+        "ts": "1475273890.000010"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Yes there's two trees one on each side of the river",
+        "ts": "1475273909.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "I try to lasso the tree across the river and pull myself over",
+        "ts": "1475274051.000012"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Roll a d20",
+        "ts": "1475274092.000013"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/roll 1d20",
+        "ts": "1475274126.000014"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@johncollins rolled 5",
+                "text": "@johncollins rolled *5*",
+                "id": 1,
+                "color": "d00000",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "5",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475274126.000015"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "You miss the tree. And the rope hits the water. ",
+        "ts": "1475274279.000016"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Can I try again?",
+        "ts": "1475274311.000017"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Yes. The rope is damp so its heavier",
+        "ts": "1475274600.000018"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Ok. Roll another d20?",
+        "ts": "1475274646.000019"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Yea",
+        "ts": "1475274703.000020"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/roll 1d20",
+        "ts": "1475274797.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@johncollins rolled 12",
+                "text": "@johncollins rolled *12*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "12",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475274797.000022"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "The rope successfully wraps around a branch on the tree. ",
+        "ts": "1475274884.000023"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "I pull the rope to make sure it will hold.",
+        "ts": "1475274945.000024"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "The rope holds and the branch doesn't seem to move much.",
+        "ts": "1475275152.000025"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "I tie the rope to my waist and begin crossing.",
+        "ts": "1475275210.000026"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "When you enter the river, you get a sudden bone chilling shock that shoots throughout your body from the temperature of the river. It is tolerable, but you would not last longer than 10 minutes without succumbing to the cold. The river comes to about waist high. Do you continue to cross the river?",
+        "ts": "1475275696.000027"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Im going to cross",
+        "ts": "1475276049.000028"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Roll a d10",
+        "ts": "1475276172.000029"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/roll 1d10",
+        "ts": "1475276191.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@johncollins rolled 5",
+                "text": "@johncollins rolled *5*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d10",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "5",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475276191.000031"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "It takes you 5 minutes to cross the river. As you climb out of the river your body is shivering in order to keep yourself warm",
+        "ts": "1475276259.000032"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Did my backpack stay dry? And is there anything I can see or hear?",
+        "ts": "1475276310.000033"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Your backpack got wet, but everything inside remained dry. Roll a d20 for perception",
+        "ts": "1475276422.000034"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/roll 1d20",
+        "ts": "1475276920.000035"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@johncollins rolled 5",
+                "text": "@johncollins rolled *5*",
+                "id": 1,
+                "color": "d00000",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "5",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475276920.000036"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Out of character: i throw my dice against the wall to hopefully knock better rolls into them.",
+        "ts": "1475276979.000037"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "The cold is all you can focus on. You don't hear or see anything.",
+        "ts": "1475277098.000038"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "When you throw your dice against the wall, a nat 20 turns up",
+        "ts": "1475277126.000039"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Haha",
+        "ts": "1475277158.000040"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Is there anything around me i can use to start a fire?",
+        "ts": "1475277202.000041"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "The only thing near you that you notice is grass on the ground",
+        "ts": "1475277302.000042"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Can i reach my rope to untie it?",
+        "ts": "1475277889.000043"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Yes. The branch is only 5ft up",
+        "ts": "1475278171.000044"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "I'm going to assume youre at least 5ft",
+        "ts": "1475278195.000045"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Are there any dry branches that look dry within reach?",
+        "ts": "1475278246.000046"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "The only branch within reach is the one you ropped onto",
+        "ts": "1475278339.000047"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "But it is a thick branch",
+        "ts": "1475278354.000048"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Ok i remove my rope from the tree",
+        "ts": "1475278386.000049"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "You successfully retrieve the rope",
+        "ts": "1475278452.000050"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "I roll the rope into a loop and hook it to my arm in hopes it will dry and begin walking up looking for firewood.",
+        "ts": "1475278621.000051"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "As you search for firewood you stumble upon what seems to be an abandoned camp",
+        "ts": "1475278758.000052"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "What do I notice about the camp from where I am at?",
+        "ts": "1475278999.000053"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "roll a d20 for perception",
+        "ts": "1475279077.000054"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Im gonna have to pause for now emergency just came up",
+        "ts": "1475279084.000055"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "ok",
+        "ts": "1475279091.000056"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "Impressive",
+        "ts": "1475291389.000057"
+    }
+]

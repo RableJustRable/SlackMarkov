@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "\/giphy baby come back",
+        "edited": {
+            "user": "U2BQB4ADS",
+            "ts": "1480453093.000000"
+        },
+        "ts": "1480453082.000016"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/natalie-tran-communitychannel-but-really-WOy2KKTkmO67C",
+                "image_url": "https:\/\/media4.giphy.com\/media\/WOy2KKTkmO67C\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1020301,
+                "is_animated": true,
+                "title": "baby come back",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/natalie-tran-communitychannel-but-really-WOy2KKTkmO67C"
+            }
+        ],
+        "ts": "1480454690.000018"
+    },
+    {
+        "type": "message",
+        "user": "U2C2QB893",
+        "text": "Just meme it! - <http:\/\/ifunny.co\/fun\/ui1a8U234>",
+        "attachments": [
+            {
+                "service_name": "iFunny",
+                "title": "Life in a nutshell",
+                "title_link": "http:\/\/ifunny.co\/fun\/ui1a8U234",
+                "text": "If you can pause right before he doubled over that's the face of a psychopath",
+                "fallback": "iFunny: Life in a nutshell",
+                "image_url": "https:\/\/img.ifcdn.com\/images\/b4e71831922946217e6e85153ec4c3d9e4c7b9dfd4e471fc7de7c2c0e7b69373_3.jpg",
+                "from_url": "http:\/\/ifunny.co\/fun\/ui1a8U234",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 15500,
+                "service_icon": "https:\/\/ifunny.co\/images\/favicon57x57.png?101",
+                "id": 1
+            }
+        ],
+        "ts": "1480455760.000019"
+    },
+    {
+        "text": "*may may",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1480455760.000020"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/race-racist-112aNnABlnjrcQ",
+                "image_url": "http:\/\/media4.giphy.com\/media\/112aNnABlnjrcQ\/giphy.gif",
+                "image_width": 245,
+                "image_height": 299,
+                "image_bytes": 991487,
+                "is_animated": true,
+                "title": "racist",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/race-racist-112aNnABlnjrcQ"
+            }
+        ],
+        "ts": "1480457464.000022"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK",
+                "image_url": "https:\/\/media4.giphy.com\/media\/wYz6MTJaDgxNK\/giphy.gif",
+                "image_width": 345,
+                "image_height": 502,
+                "image_bytes": 969572,
+                "is_animated": true,
+                "title": "stroke",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK"
+            }
+        ],
+        "ts": "1480468251.000023"
+    }
+]

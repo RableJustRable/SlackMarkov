@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "We have decided on a team for Globalhack. We have funding for a team of 5. This was decided due to logistics of lodging for the event as well as the best size for a managable team. We have decided on a team consisting of Phil, Jon Quinn, Adam, John Collins, and Josh. This team was decided upon based on experience, seniority, and time until graduation. \n\nFor those that are interested in a hackathon, Spartahacks is in January and due to how close it is and the lower cost we would like to send at least one team to it. If you are interested in that please let us know.",
+        "ts": "1475526882.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "I found another hackathon that is hosted by ACM and sponsored by IBM. The east central regional's registration closes October 12th and the location is undetermined right now.  This is the website. <https:\/\/icpc.baylor.edu\/regionals\/finder\/east-central-na-2016>",
+        "attachments": [
+            {
+                "title": "The 2016 East Central NA Regional Contest (East Central NA) ICPC contest",
+                "title_link": "https:\/\/icpc.baylor.edu\/regionals\/finder\/east-central-na-2016",
+                "text": "ICPC Info",
+                "fallback": "The 2016 East Central NA Regional Contest (East Central NA) ICPC contest",
+                "from_url": "https:\/\/icpc.baylor.edu\/regionals\/finder\/east-central-na-2016",
+                "service_name": "icpc.baylor.edu",
+                "id": 1
+            }
+        ],
+        "ts": "1475528493.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQPXHA",
+        "text": "We could probably send anyone that would want to go to the msu hack.",
+        "ts": "1475528698.000005"
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "\/roll 1d20",
+        "ts": "1475071305.000002"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@latunska rolled 18",
+                "text": "@latunska rolled *18*",
+                "id": 1,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "18",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475071305.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "Beat that!",
+        "ts": "1475071319.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "\/roll 1d100",
+        "ts": "1475072842.000005"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@adampowe rolled 78",
+                "text": "@adampowe rolled *78*",
+                "id": 1,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d100",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "78",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475072842.000006"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "I win",
+        "ts": "1475072848.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "Nay, it was on D20 not D100",
+        "ts": "1475076488.000008"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "\/roll 1d100",
+        "ts": "1475076515.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@latunska rolled 96",
+                "text": "@latunska rolled *96*",
+                "id": 1,
+                "color": "36a64f",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d100",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "96",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475076515.000010"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "besides I win that too",
+        "ts": "1475076523.000011"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/roll 400d20",
+        "ts": "1475093873.000012"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@samannin rolled 1074",
+                "text": "@samannin rolled *1074*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "100d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "12 14 15 17 6 20 2 7 1 12 9 17 7 1 10 15 19 14 13 8 1 18 18 17 9 15 1 12 19 14 16 16 19 5 11 3 7 17 3 10 5 16 8 4 6 13 12 13 4 11 19 8 19 2 7 14 17 12 20 12 16 19 5 17 8 2 3 13 16 10 1 11 9 11 3 1 3 4 20 9 2 7 3 14 8 15 7 17 19 8 17 18 5 1 8 10 16 19 14 13",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475093873.000013"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "I win",
+        "ts": "1475093887.000014"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "\/roll 100d20",
+        "ts": "1475093921.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@airsick rolled 986",
+                "text": "@airsick rolled *986*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "100d20",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "11 13 1 18 20 13 8 19 12 13 17 19 11 18 19 13 5 16 8 5 12 6 5 17 16 12 2 15 16 12 19 1 8 1 1 11 13 2 1 6 10 12 13 11 10 13 14 2 2 2 6 2 12 11 5 14 3 10 5 14 3 13 5 5 19 8 10 19 13 10 3 17 5 12 6 5 16 17 13 2 1 4 10 18 13 8 10 14 9 3 8 20 11 1 4 5 18 3 16 3",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475093921.000016"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": ":sob: ",
+        "ts": "1475093932.000017"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/roll 1000d1000",
+        "ts": "1475094679.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@johncollins rolled 1000 + 496 = 1496",
+                "text": "@johncollins rolled *1000* + *496* = *1496*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d1000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "496",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475094680.000019"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "Wut",
+        "ts": "1475094736.000020"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "1d100000000000",
+        "ts": "1475094756.000021"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/roll 1d1000000000000",
+        "ts": "1475094763.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@samannin rolled 388 + 0 + 0 = 388",
+                "text": "@samannin rolled *388* + *0* + *0* = *388*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d1000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "388",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475094763.000023"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Im guessing it has a max.",
+        "ts": "1475094773.000024"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "apparently so",
+        "ts": "1475094784.000025"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "\/roll 1000d1000",
+        "ts": "1475094834.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@adampowe rolled 1000 + 436 = 1436",
+                "text": "@adampowe rolled *1000* + *436* = *1436*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "1d1000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "436",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475094834.000027"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Bummer",
+        "ts": "1475094845.000028"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/roll 100d100",
+        "ts": "1475094846.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@samannin rolled 4850",
+                "text": "@samannin rolled *4850*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "100d100",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "27 26 63 5 4 52 24 95 16 32 10 81 5 94 61 72 67 15 80 12 16 87 30 91 83 48 24 95 99 83 15 70 38 82 72 90 29 19 76 97 70 46 23 26 65 22 7 55 70 28 70 76 24 20 100 9 34 8 89 46 77 34 60 12 11 95 70 75 4 25 25 26 79 52 88 19 45 66 76 12 15 39 71 26 56 87 70 85 30 24 22 16 87 21 30 34 16 29 98 70",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475094846.000030"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/roll 999d999",
+        "ts": "1475094862.000031"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@samannin rolled 52032",
+                "text": "@samannin rolled *52032*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "100d999",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "928 69 974 512 585 219 645 994 581 764 952 88 472 973 520 495 5 16 286 555 357 302 30 578 972 983 268 360 285 982 335 277 872 35 256 862 469 897 585 432 30 995 486 347 765 848 687 489 897 945 733 893 965 541 971 5 189 191 776 813 215 65 571 744 527 129 348 724 460 212 443 97 715 220 427 995 333 622 329 94 833 692 145 326 888 488 538 162 469 471 445 476 936 14 695 627 676 283 346 916",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475094862.000032"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "So.... 100 dice max 999?",
+        "ts": "1475111693.000033"
+    },
+    {
+        "type": "message",
+        "user": "U2BR93Z6K",
+        "text": "\/roll 100d999",
+        "ts": "1475111711.000034"
+    },
+    {
+        "text": "",
+        "bot_id": "B2G99ASQN",
+        "attachments": [
+            {
+                "fallback": "@latunska rolled 45501",
+                "text": "@latunska rolled *45501*",
+                "id": 1,
+                "color": "daa038",
+                "fields": [
+                    {
+                        "title": "Dice",
+                        "value": "100d999",
+                        "short": true
+                    },
+                    {
+                        "title": "Rolls",
+                        "value": "185 777 760 125 269 511 151 216 115 274 32 266 722 931 433 852 72 992 415 20 674 198 841 599 703 421 689 62 190 269 454 268 658 523 418 944 350 995 330 392 803 60 35 318 198 544 119 951 274 219 805 466 429 944 366 464 360 243 486 895 167 80 866 41 286 218 799 300 777 950 314 395 641 54 620 9 266 12 727 75 583 572 692 839 371 825 88 80 231 171 951 990 66 552 614 696 107 897 636 868",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1475111711.000035"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "looks to be it",
+        "ts": "1475112524.000036"
+    }
+]

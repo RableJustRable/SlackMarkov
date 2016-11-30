@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U2BR1HW2V",
+        "text": "<@U2BR1HW2V|johncollins> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473893178.000002"
+    },
+    {
+        "user": "U2BRD3V34",
+        "text": "<@U2BRD3V34|mwoods> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473895444.000002"
+    },
+    {
+        "user": "U2BPMSLNP",
+        "text": "<@U2BPMSLNP|shaun.sams> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473896726.000002"
+    },
+    {
+        "user": "U2BR93Z6K",
+        "text": "<@U2BR93Z6K|latunska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473897686.000003"
+    },
+    {
+        "user": "U2BR2PVPT",
+        "text": "<@U2BR2PVPT|bfauble> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473900745.000004"
+    },
+    {
+        "user": "U2BQB4ADS",
+        "text": "<@U2BQB4ADS|adampowe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473902453.000005"
+    }
+]

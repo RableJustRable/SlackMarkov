@@ -1,0 +1,514 @@
+[
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy winter is coming",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/game-of-thrones-jon-snow-gif-nplKLWUd3j0Bi>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/nplKLWUd3j0Bi\/giphy.gif",
+                "image_width": 500,
+                "image_height": 300,
+                "image_bytes": 1584319,
+                "is_animated": true,
+                "title": "winter is coming",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/game-of-thrones-jon-snow-gif-nplKLWUd3j0Bi"
+            }
+        ],
+        "ts": "1477655861.000649"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy lenovo hackers",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/high-school-musical-9eMvJgLkeYhTG>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/9eMvJgLkeYhTG\/giphy.gif",
+                "image_width": 541,
+                "image_height": 305,
+                "image_bytes": 303866,
+                "is_animated": true,
+                "title": "lenovo hackers",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/high-school-musical-9eMvJgLkeYhTG"
+            }
+        ],
+        "ts": "1477657223.000650"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy meme lord",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-lord-of-rings-meme-xSIlvgtYeTlfy>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/xSIlvgtYeTlfy\/giphy.gif",
+                "image_width": 245,
+                "image_height": 150,
+                "image_bytes": 390002,
+                "is_animated": true,
+                "title": "meme lord",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-lord-of-rings-meme-xSIlvgtYeTlfy"
+            }
+        ],
+        "ts": "1477662780.000651"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "*maymay",
+        "ts": "1477662780.000652"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Did slackbot just correct meme",
+        "ts": "1477662812.000653"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "*maymay",
+        "ts": "1477662812.000654"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "Uh",
+        "ts": "1477662836.000655"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Meme",
+        "ts": "1477662841.000656"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "*maymay",
+        "ts": "1477662842.000657"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Omg",
+        "ts": "1477662845.000658"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "May may\n",
+        "ts": "1477662847.000659"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy slackbot = maymay lord",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/meme-know-maymay-Lv6pQ6zv8AGpa>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/Lv6pQ6zv8AGpa\/giphy.gif",
+                "image_width": 580,
+                "image_height": 892,
+                "image_bytes": 207081,
+                "is_animated": true,
+                "title": "slackbot = maymay lord",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/meme-know-maymay-Lv6pQ6zv8AGpa"
+            }
+        ],
+        "ts": "1477662870.000660"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy slackbot",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/GwWW15ygf93X2>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/GwWW15ygf93X2\/giphy.gif",
+                "image_width": 814,
+                "image_height": 403,
+                "image_bytes": 521556,
+                "is_animated": true,
+                "title": "slackbot",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/GwWW15ygf93X2"
+            }
+        ],
+        "ts": "1477663309.000661"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/giphy rouge ai",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/ai-KOROkyzUGjXX2>",
+                "image_url": "http:\/\/media.giphy.com\/media\/KOROkyzUGjXX2\/giphy-tumblr.gif",
+                "image_width": 320,
+                "image_height": 319,
+                "image_bytes": 1693969,
+                "is_animated": true,
+                "title": "rouge ai",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/ai-KOROkyzUGjXX2"
+            }
+        ],
+        "ts": "1477664794.000662"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy maymays",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/maddengiferator-pull-the-lever-kronk-7UcT0dkbtfqxy>",
+                "image_url": "http:\/\/media.giphy.com\/media\/7UcT0dkbtfqxy\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 178,
+                "image_bytes": 929024,
+                "is_animated": true,
+                "title": "maymays",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/maddengiferator-pull-the-lever-kronk-7UcT0dkbtfqxy"
+            }
+        ],
+        "ts": "1477664882.000663"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/giphy kronk",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/disney-week-monday-back-to-work-9GdQwTX7l5qJG>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/9GdQwTX7l5qJG\/giphy.gif",
+                "image_width": 690,
+                "image_height": 394,
+                "image_bytes": 1191628,
+                "is_animated": true,
+                "title": "kronk",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/disney-week-monday-back-to-work-9GdQwTX7l5qJG"
+            }
+        ],
+        "ts": "1477664902.000664"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/giphy wrong lever",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/ooc-emperors-new-groove-yzma-14rfBl2RMAHtCM>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/14rfBl2RMAHtCM\/giphy.gif",
+                "image_width": 500,
+                "image_height": 255,
+                "image_bytes": 862514,
+                "is_animated": true,
+                "title": "wrong lever",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/ooc-emperors-new-groove-yzma-14rfBl2RMAHtCM"
+            }
+        ],
+        "ts": "1477664927.000666"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy gifs that end too soon",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/frustrating-Sg2ngAEtBWZd6>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/Sg2ngAEtBWZd6\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 1385401,
+                "is_animated": true,
+                "title": "gifs that end too soon",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/frustrating-Sg2ngAEtBWZd6"
+            }
+        ],
+        "ts": "1477664965.000667"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "\/giphy perfect loop",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/ameliagiller-tiger-perfect-loop-animated-xTiTnqYu8LBGO2xlEA>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/xTiTnqYu8LBGO2xlEA\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 21582,
+                "is_animated": true,
+                "title": "perfect loop",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/ameliagiller-tiger-perfect-loop-animated-xTiTnqYu8LBGO2xlEA"
+            }
+        ],
+        "ts": "1477665137.000668"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "ok, at least that one was better than last time",
+        "ts": "1477665150.000669"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy its friday",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/bradley-cooper-the-hangover-its-friday-13eQSAOGS4T076>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/13eQSAOGS4T076\/giphy.gif",
+                "image_width": 500,
+                "image_height": 209,
+                "image_bytes": 510350,
+                "is_animated": true,
+                "title": "its friday",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/bradley-cooper-the-hangover-its-friday-13eQSAOGS4T076"
+            }
+        ],
+        "ts": "1477673100.000670"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy friday friday friday",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/friday-fridays-that-feeling-26BRBxVOurb0jmlJ6>",
+                "image_url": "http:\/\/media.giphy.com\/media\/26BRBxVOurb0jmlJ6\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 187,
+                "image_bytes": 835598,
+                "is_animated": true,
+                "title": "friday friday friday",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/friday-fridays-that-feeling-26BRBxVOurb0jmlJ6"
+            }
+        ],
+        "ts": "1477673147.000671"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Jifs",
+        "ts": "1477673166.000672"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Gifs",
+        "ts": "1477673173.000673"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "*jifs",
+        "ts": "1477673174.000674"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy slackbot op",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/op-3yXpHooxaOeo8>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/3yXpHooxaOeo8\/giphy.gif",
+                "image_width": 500,
+                "image_height": 750,
+                "image_bytes": 232061,
+                "is_animated": true,
+                "title": "slackbot op",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/op-3yXpHooxaOeo8"
+            }
+        ],
+        "ts": "1477673205.000675"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "#F6F6F6",
+        "ts": "1477673243.000676"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "#FF0000",
+        "ts": "1477673249.000677"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Go to preferences &gt; Advanced preferences and :heavy_check_mark: the surprise me box",
+        "ts": "1477673298.000678"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "who turned on the slack spell check thing",
+        "ts": "1477673673.000679"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy spirit circle",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-voice-season-8-CSqnadgAzwcUg>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/CSqnadgAzwcUg\/giphy.gif",
+                "image_width": 600,
+                "image_height": 250,
+                "image_bytes": 236470,
+                "is_animated": true,
+                "title": "spirit circle",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-voice-season-8-CSqnadgAzwcUg"
+            }
+        ],
+        "ts": "1477685392.000680",
+        "reactions": [
+            {
+                "name": "spirit",
+                "users": [
+                    "U2BQQEXL0",
+                    "U2BPDGZA7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy crop dusting",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/crop-dusting-YT2tqPCBmljLW>",
+                "image_url": "http:\/\/media.giphy.com\/media\/YT2tqPCBmljLW\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1025743,
+                "is_animated": true,
+                "title": "crop dusting",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/crop-dusting-YT2tqPCBmljLW"
+            }
+        ],
+        "ts": "1477685635.000681"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy crop dusting at work",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/plane-kaSlegDRKFpAI>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/kaSlegDRKFpAI\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 1299836,
+                "is_animated": true,
+                "title": "crop dusting at work",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/plane-kaSlegDRKFpAI"
+            }
+        ],
+        "ts": "1477685647.000682"
+    },
+    {
+        "type": "message",
+        "user": "U2BQXETL5",
+        "text": "\/giphy dead crops",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-walking-dead-DzwucF8BZnK1i>",
+                "image_url": "http:\/\/media.giphy.com\/media\/DzwucF8BZnK1i\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 115,
+                "image_bytes": 522814,
+                "is_animated": true,
+                "title": "dead crops",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-walking-dead-DzwucF8BZnK1i"
+            }
+        ],
+        "ts": "1477687210.000683"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy smells like roses",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/smelling-Z1jHLtgwEUqqc>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/Z1jHLtgwEUqqc\/giphy.gif",
+                "image_width": 245,
+                "image_height": 248,
+                "image_bytes": 947696,
+                "is_animated": true,
+                "title": "smells like roses",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/smelling-Z1jHLtgwEUqqc"
+            }
+        ],
+        "ts": "1477687237.000684"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": ":dab:",
+        "ts": "1477702686.000685"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy the dream",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/H2IUxfUfXYWDS>",
+                "image_url": "https:\/\/media3.giphy.com\/media\/H2IUxfUfXYWDS\/giphy.gif",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 975442,
+                "is_animated": true,
+                "title": "the dream",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/H2IUxfUfXYWDS"
+            }
+        ],
+        "ts": "1477716066.000686"
+    }
+]

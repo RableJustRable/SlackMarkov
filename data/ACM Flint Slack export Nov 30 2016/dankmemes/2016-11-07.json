@@ -1,0 +1,346 @@
+[
+    {
+        "user": "U2BR93Z6K",
+        "text": "<@U2BR93Z6K|latunska> has left the channel",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1478545413.000897"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy in the beginning",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/kerbalspaceprogram-beginnings-75TXqcClDlDjy>",
+                "image_url": "http:\/\/media.giphy.com\/media\/75TXqcClDlDjy\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 978732,
+                "is_animated": true,
+                "title": "in the beginning",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/kerbalspaceprogram-beginnings-75TXqcClDlDjy"
+            }
+        ],
+        "ts": "1478553550.000898"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy penguin",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/qACPNbQDJS3WE>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/qACPNbQDJS3WE\/giphy.gif",
+                "image_width": 450,
+                "image_height": 253,
+                "image_bytes": 1085898,
+                "is_animated": true,
+                "title": "penguin",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/qACPNbQDJS3WE"
+            }
+        ],
+        "ts": "1478553607.000899"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy in the beginning of time",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/once-upon-a-time-YKuj1NOpffE8o>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/YKuj1NOpffE8o\/giphy.gif",
+                "image_width": 245,
+                "image_height": 245,
+                "image_bytes": 952676,
+                "is_animated": true,
+                "title": "in the beginning of time",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/once-upon-a-time-YKuj1NOpffE8o"
+            }
+        ],
+        "ts": "1478553627.000900"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy crickets",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-gif-what-jimmy-fallon-w4jlsqN6YwUN2>",
+                "image_url": "http:\/\/media.giphy.com\/media\/w4jlsqN6YwUN2\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 181,
+                "image_bytes": 796214,
+                "is_animated": true,
+                "title": "crickets",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/reaction-gif-what-jimmy-fallon-w4jlsqN6YwUN2"
+            }
+        ],
+        "ts": "1478553735.000901"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy memory mountain",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/911-memorial-elADMKfBdZL9e>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/elADMKfBdZL9e\/giphy.gif",
+                "image_width": 970,
+                "image_height": 546,
+                "image_bytes": 832829,
+                "is_animated": true,
+                "title": "memory mountain",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/911-memorial-elADMKfBdZL9e"
+            }
+        ],
+        "ts": "1478553776.000902"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "\/giphy candy mountain",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/laughing-uLAoIx3H2qLW8>",
+                "image_url": "http:\/\/media.giphy.com\/media\/uLAoIx3H2qLW8\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1276721,
+                "is_animated": true,
+                "title": "candy mountain",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/laughing-uLAoIx3H2qLW8"
+            }
+        ],
+        "ts": "1478553815.000903"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy <http:\/\/d.va|d.va> best waifu",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/d-9U7KXMCWlj4kw>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/9U7KXMCWlj4kw\/giphy.gif",
+                "image_width": 640,
+                "image_height": 599,
+                "image_bytes": 126938,
+                "is_animated": true,
+                "title": "d.va best waifu",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/d-9U7KXMCWlj4kw"
+            }
+        ],
+        "ts": "1478553869.000904"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy dva",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/overwatch-dva-potg-10N20K8zoEhVL2>",
+                "image_url": "http:\/\/media.giphy.com\/media\/10N20K8zoEhVL2\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 867902,
+                "is_animated": true,
+                "title": "dva",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/overwatch-dva-potg-10N20K8zoEhVL2"
+            }
+        ],
+        "ts": "1478553889.000905"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy tracer",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/P5sbSG8ExqKVW>",
+                "image_url": "https:\/\/media0.giphy.com\/media\/P5sbSG8ExqKVW\/giphy.gif",
+                "image_width": 400,
+                "image_height": 400,
+                "image_bytes": 1842200,
+                "is_animated": true,
+                "title": "tracer",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/P5sbSG8ExqKVW"
+            }
+        ],
+        "ts": "1478553917.000906"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy red dot m16",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/Gjc9cqTtLfby0>",
+                "image_url": "https:\/\/media.giphy.com\/media\/Gjc9cqTtLfby0\/giphy-tumblr.gif",
+                "image_width": 234,
+                "image_height": 250,
+                "image_bytes": 1130144,
+                "is_animated": true,
+                "title": "red dot m16",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/Gjc9cqTtLfby0"
+            }
+        ],
+        "ts": "1478554290.000908"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "\/giphy exams plz",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/nE9LkG1IMiNxe>",
+                "image_url": "https:\/\/media4.giphy.com\/media\/nE9LkG1IMiNxe\/giphy.gif",
+                "image_width": 320,
+                "image_height": 250,
+                "image_bytes": 626100,
+                "is_animated": true,
+                "title": "exams plz",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/nE9LkG1IMiNxe"
+            }
+        ],
+        "ts": "1478554311.000909"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy impending doom",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/cheezburger-wtf-kH3o9VGBZfQyY>",
+                "image_url": "http:\/\/media.giphy.com\/media\/kH3o9VGBZfQyY\/giphy-tumblr.gif",
+                "image_width": 300,
+                "image_height": 168,
+                "image_bytes": 915071,
+                "is_animated": true,
+                "title": "impending doom",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/cheezburger-wtf-kH3o9VGBZfQyY"
+            }
+        ],
+        "ts": "1478554322.000910"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy arianna grande",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/arianna-grande-love-cute-FEN38V9KEMFTa>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/FEN38V9KEMFTa\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1043828,
+                "is_animated": true,
+                "title": "arianna grande",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/arianna-grande-love-cute-FEN38V9KEMFTa"
+            }
+        ],
+        "ts": "1478561925.000911",
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "U2C2ZH39R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U2BQQEXL0",
+                    "U2C2ZH39R"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "<@U2C2ZH39R>",
+        "ts": "1478561929.000912"
+    },
+    {
+        "text": "*giphy",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478561929.000913"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy arianna grande stroke",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/scream-queens-chanel-gif-mUNQV0baseJqM>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/mUNQV0baseJqM\/giphy.gif",
+                "image_width": 245,
+                "image_height": 177,
+                "image_bytes": 1055251,
+                "is_animated": true,
+                "title": "arianna grande stroke",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/scream-queens-chanel-gif-mUNQV0baseJqM"
+            }
+        ],
+        "ts": "1478570431.000914"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy stroke",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/wYz6MTJaDgxNK\/giphy.gif",
+                "image_width": 345,
+                "image_height": 502,
+                "image_bytes": 969572,
+                "is_animated": true,
+                "title": "stroke",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK"
+            }
+        ],
+        "ts": "1478571979.000915"
+    },
+    {
+        "text": "TRIGGERED",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478571979.000916"
+    }
+]

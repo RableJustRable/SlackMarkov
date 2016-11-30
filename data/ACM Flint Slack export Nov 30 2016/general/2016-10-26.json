@@ -1,0 +1,204 @@
+[
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "Lol guys ",
+        "ts": "1477468311.000153"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "So I have Nougat running on a 3 year old phone before most flagships even have it",
+        "ts": "1477468346.000154"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2CK05MGS|garnerlogan65> uploaded a file: <https:\/\/acmflint.slack.com\/files\/garnerlogan65\/F2UAJ1MQX\/screenshot_20161026-031157.png|Slack for Android Upload>",
+        "file": {
+            "id": "F2UAJ1MQX",
+            "created": 1477468358,
+            "timestamp": 1477468358,
+            "name": "Screenshot_20161026-031157.png",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U2CK05MGS",
+            "editable": false,
+            "size": 128509,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2UAJ1MQX\/screenshot_20161026-031157.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2UAJ1MQX\/download\/screenshot_20161026-031157.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_64.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_80.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_360.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_480.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_160.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_720.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_960.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UAJ1MQX-ed2b06d3f8\/screenshot_20161026-031157_1024.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1080,
+            "original_h": 1920,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/garnerlogan65\/F2UAJ1MQX\/screenshot_20161026-031157.png",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2UAJ1MQX-e6cab582ea",
+            "channels": [
+                "C2BQB4DEY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U2CK05MGS",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2CK05MGS|garnerlogan65>",
+        "bot_id": null,
+        "ts": "1477468362.000155"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "And everything works",
+        "ts": "1477468369.000156"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "Including multiwindow",
+        "ts": "1477468383.000157"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "What phone is it?",
+        "ts": "1477490291.000158"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "HTC One M7 <@U2BQB4ADS> ",
+        "ts": "1477503211.000159"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "Also has latest security patches",
+        "ts": "1477504795.000160"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "I actually found one thing that does not work...",
+        "ts": "1477504819.000161"
+    },
+    {
+        "type": "message",
+        "user": "U2CK05MGS",
+        "text": "The flashlight toggle lmao",
+        "ts": "1477504827.000162"
+    },
+    {
+        "type": "message",
+        "user": "U2C2QB893",
+        "text": "<!channel> yo we having an event rn \"night of a thousand nuggets\".  2nd floor of the ucen. Games and 1000 nuggets.",
+        "ts": "1477520338.000163"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "Acm is?",
+        "ts": "1477520374.000164"
+    },
+    {
+        "type": "message",
+        "user": "U2C2QB893",
+        "text": "Nah Kappa Sigma. There is so many fuckin nugs.  Come lel",
+        "ts": "1477520452.000165"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2C2QB893|mszczepanski> uploaded a file: <https:\/\/acmflint.slack.com\/files\/mszczepanski\/F2UNS9TJT\/img_20161026_182150.jpg|1000 nuggets.>",
+        "file": {
+            "id": "F2UNS9TJT",
+            "created": 1477520548,
+            "timestamp": 1477520548,
+            "name": "IMG_20161026_182150.jpg",
+            "title": "1000 nuggets.",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U2C2QB893",
+            "editable": false,
+            "size": 1973695,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2UNS9TJT\/img_20161026_182150.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2UNS9TJT\/download\/img_20161026_182150.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_64.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_80.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_360.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_480.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_160.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_720.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_960.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2UNS9TJT-f0af4a6499\/img_20161026_182150_1024.jpg?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 3264,
+            "original_h": 2448,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/mszczepanski\/F2UNS9TJT\/img_20161026_182150.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2UNS9TJT-d408dcda31",
+            "channels": [
+                "C2BQB4DEY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U2C2QB893",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2C2QB893|mszczepanski>",
+        "bot_id": null,
+        "ts": "1477520553.000166"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Nugs were good thanks <@U2C2QB893> ",
+        "ts": "1477527893.000167"
+    }
+]

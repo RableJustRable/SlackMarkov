@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "user": "U2BQXETL5",
+        "text": "\/giphy josh is owen wilson",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/film-maya-rudolph-reese-witherspoon-wGGwVKtFFxEbe>",
+                "image_url": "https:\/\/media0.giphy.com\/media\/wGGwVKtFFxEbe\/giphy.gif",
+                "image_width": 245,
+                "image_height": 150,
+                "image_bytes": 362971,
+                "is_animated": true,
+                "title": "josh is owen wilson",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/film-maya-rudolph-reese-witherspoon-wGGwVKtFFxEbe"
+            }
+        ],
+        "ts": "1478277221.000896"
+    }
+]

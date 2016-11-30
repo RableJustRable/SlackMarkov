@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "hey <@U2BQB4ADS> did we get our applications approved or whatever?",
+        "ts": "1478914858.000002"
+    },
+    {
+        "user": "U2BQB4ADS",
+        "inviter": "U2C9RB6TE",
+        "text": "<@U2BQB4ADS|adampowe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478914866.000003"
+    }
+]

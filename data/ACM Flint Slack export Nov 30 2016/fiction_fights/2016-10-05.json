@@ -1,0 +1,155 @@
+[
+    {
+        "user": "U2C2ZH39R",
+        "text": "<@U2C2ZH39R|quinn> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475683346.000002",
+        "reactions": [
+            {
+                "name": "paul",
+                "users": [
+                    "U2C2Q26DV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U2C2ZH39R",
+        "purpose": "To discuss why Goku always wins",
+        "text": "<@U2C2ZH39R|quinn> set the channel purpose: To discuss why Goku always wins",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1475683347.000003",
+        "reactions": [
+            {
+                "name": "paul",
+                "users": [
+                    "U2BQXETL5",
+                    "U2C2Q26DV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Goku Vs Superman",
+        "ts": "1475683358.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "Goku wins",
+        "ts": "1475683359.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "<http:\/\/pre10.deviantart.net\/ca12\/th\/pre\/f\/2012\/297\/8\/f\/goku_vs_superman_by_eckoslime-d5ius4r.jpg>",
+        "attachments": [
+            {
+                "fallback": "1030x775px image",
+                "image_url": "http:\/\/pre10.deviantart.net\/ca12\/th\/pre\/f\/2012\/297\/8\/f\/goku_vs_superman_by_eckoslime-d5ius4r.jpg",
+                "image_width": 1030,
+                "image_height": 775,
+                "image_bytes": 137748,
+                "from_url": "http:\/\/pre10.deviantart.net\/ca12\/th\/pre\/f\/2012\/297\/8\/f\/goku_vs_superman_by_eckoslime-d5ius4r.jpg",
+                "id": 1
+            }
+        ],
+        "ts": "1475683395.000006"
+    },
+    {
+        "user": "U2BQB4ADS",
+        "text": "<@U2BQB4ADS|adampowe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475685042.000008",
+        "reactions": [
+            {
+                "name": "paul",
+                "users": [
+                    "U2C2Q26DV",
+                    "U2BQXETL5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U2BQB4ADS|adampowe> uploaded a file: <https:\/\/acmflint.slack.com\/files\/adampowe\/F2KNAR770\/pasted_image_at_2016_10_05_12_30_pm.png|Pasted image at 2016-10-05, 12:30 PM>",
+        "file": {
+            "id": "F2KNAR770",
+            "created": 1475685049,
+            "timestamp": 1475685049,
+            "name": "Pasted image at 2016_10_05 12_30 PM.png",
+            "title": "Pasted image at 2016-10-05, 12:30 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U2BQB4ADS",
+            "editable": false,
+            "size": 1394473,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2KNAR770\/pasted_image_at_2016_10_05_12_30_pm.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2BQX5S4S-F2KNAR770\/download\/pasted_image_at_2016_10_05_12_30_pm.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2KNAR770-4eece34659\/pasted_image_at_2016_10_05_12_30_pm_64.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2KNAR770-4eece34659\/pasted_image_at_2016_10_05_12_30_pm_80.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2KNAR770-4eece34659\/pasted_image_at_2016_10_05_12_30_pm_360.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_360_w": 360,
+            "thumb_360_h": 275,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2KNAR770-4eece34659\/pasted_image_at_2016_10_05_12_30_pm_480.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_480_w": 480,
+            "thumb_480_h": 367,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2KNAR770-4eece34659\/pasted_image_at_2016_10_05_12_30_pm_160.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2BQX5S4S-F2KNAR770-4eece34659\/pasted_image_at_2016_10_05_12_30_pm_720.png?t=xoxe-79847196162-110346250320-111739753559-e4adce5c26",
+            "thumb_720_w": 720,
+            "thumb_720_h": 550,
+            "image_exif_rotation": 1,
+            "original_w": 883,
+            "original_h": 675,
+            "permalink": "https:\/\/acmflint.slack.com\/files\/adampowe\/F2KNAR770\/pasted_image_at_2016_10_05_12_30_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T2BQX5S4S-F2KNAR770-28116e406a",
+            "channels": [
+                "C2KLBS9QT"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "paul",
+                    "users": [
+                        "U2C2Q26DV",
+                        "U2BQXETL5"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U2BQB4ADS",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U2BQB4ADS|adampowe>",
+        "bot_id": null,
+        "ts": "1475685053.000009"
+    },
+    {
+        "user": "U2C2Q26DV",
+        "text": "<@U2C2Q26DV|paul> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475690018.000010"
+    }
+]

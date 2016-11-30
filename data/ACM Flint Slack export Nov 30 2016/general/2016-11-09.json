@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U2ZUG1RPB",
+        "text": "<@U2ZUG1RPB|kstrait> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478724687.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BQXETL5",
+        "text": "Here is a survey for an HCI project, if you have the time. Fill it out. ",
+        "ts": "1478724843.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BQXETL5",
+        "text": "<http:\/\/umflint.qualtrics.com\/SE\/?SID=SV_cY0U07ynOHBLQdn>",
+        "attachments": [
+            {
+                "title": "Online Survey Software | Qualtrics Survey Solutions",
+                "title_link": "http:\/\/umflint.qualtrics.com\/SE\/?SID=SV_cY0U07ynOHBLQdn",
+                "text": "Qualtrics sophisticated online survey software solutions make creating online surveys easy. Learn more about Research Suite and get a free account today.",
+                "fallback": "Online Survey Software | Qualtrics Survey Solutions",
+                "from_url": "http:\/\/umflint.qualtrics.com\/SE\/?SID=SV_cY0U07ynOHBLQdn",
+                "service_icon": "http:\/\/umflint.qualtrics.com\/..\/WRQualtricsShared\/Graphics\/qipadicon.png",
+                "service_name": "umflint.qualtrics.com",
+                "id": 1
+            }
+        ],
+        "ts": "1478724847.000004"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Nein nein nein",
+        "ts": "1478724891.000006"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "ja ja ja",
+        "ts": "1478726445.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "<!channel> I'm trying to set up for Auto Owners to come in and do a talk\/meet with the ACM club. This is a good opportunity to meet a potential employer and ask questions about internships\/jobs. This would most likely happen during one of our Wednesdays meetings at around 1:00PM. If you are interested and plan on being able to make it please like this post or message me if you have any questions.",
+        "ts": "1478734228.000008",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2BQQEXL0",
+                    "U2BQXETL5",
+                    "U2C2ZH39R",
+                    "U2BPDGZA7",
+                    "U2BQ0KDFD"
+                ],
+                "count": 5
+            },
+            {
+                "name": "paul",
+                "users": [
+                    "U2BQQEXL0",
+                    "U2BPDGZA7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

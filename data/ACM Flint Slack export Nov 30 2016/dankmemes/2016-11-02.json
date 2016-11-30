@@ -1,0 +1,682 @@
+[
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy gif",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/facebook-pizurny-3o7TKzSRVufKE5t5Ly>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/3o7TKzSRVufKE5t5Ly\/giphy-tumblr.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 1866011,
+                "is_animated": true,
+                "title": "gif",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/facebook-pizurny-3o7TKzSRVufKE5t5Ly"
+            }
+        ],
+        "ts": "1478115345.000758"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy uncertainty",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/art-photography-long-exposures-cyZcnNmk5h0Mo>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/cyZcnNmk5h0Mo\/giphy.gif",
+                "image_width": 635,
+                "image_height": 288,
+                "image_bytes": 962822,
+                "is_animated": true,
+                "title": "uncertainty",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/art-photography-long-exposures-cyZcnNmk5h0Mo"
+            }
+        ],
+        "ts": "1478116797.000759"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Y\u2019all must be in dat architect class again.",
+        "ts": "1478116844.000760"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "STILL NO GRADES BACK",
+        "ts": "1478116864.000761"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy pissed",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/angry-my-little-pony-thinking-MlXjSoAjs8eUo>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/MlXjSoAjs8eUo\/giphy.gif",
+                "image_width": 720,
+                "image_height": 405,
+                "image_bytes": 269653,
+                "is_animated": true,
+                "title": "pissed",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/angry-my-little-pony-thinking-MlXjSoAjs8eUo"
+            }
+        ],
+        "ts": "1478116871.000762"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy arianna",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/scream-queens-chanel-gif-z9S9zccCLqlKE>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/z9S9zccCLqlKE\/giphy.gif",
+                "image_width": 245,
+                "image_height": 135,
+                "image_bytes": 488240,
+                "is_animated": true,
+                "title": "arianna",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/scream-queens-chanel-gif-z9S9zccCLqlKE"
+            }
+        ],
+        "ts": "1478117375.000763"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy arianna grande",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/arianna-grande-love-cute-FEN38V9KEMFTa>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/FEN38V9KEMFTa\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1043828,
+                "is_animated": true,
+                "title": "arianna grande",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/arianna-grande-love-cute-FEN38V9KEMFTa"
+            }
+        ],
+        "ts": "1478117381.000764"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy hearts up",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/election2016-dnc-election-2016-democratic-national-convention-l0MYzq6FjnSvCzFJe>",
+                "image_url": "http:\/\/media.giphy.com\/media\/l0MYzq6FjnSvCzFJe\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 138,
+                "image_bytes": 1353557,
+                "is_animated": true,
+                "title": "hearts up",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/election2016-dnc-election-2016-democratic-national-convention-l0MYzq6FjnSvCzFJe"
+            }
+        ],
+        "ts": "1478117420.000765"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy stroke",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/wYz6MTJaDgxNK\/giphy.gif",
+                "image_width": 345,
+                "image_height": 502,
+                "image_bytes": 969572,
+                "is_animated": true,
+                "title": "stroke",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK"
+            }
+        ],
+        "ts": "1478117572.000766"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy stroke",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/wYz6MTJaDgxNK\/giphy.gif",
+                "image_width": 345,
+                "image_height": 502,
+                "image_bytes": 969572,
+                "is_animated": true,
+                "title": "stroke",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/wYz6MTJaDgxNK"
+            }
+        ],
+        "ts": "1478117676.000767"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy meme fight",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/meme-fight-know-14dspyNocVyBwI>",
+                "image_url": "https:\/\/media4.giphy.com\/media\/14dspyNocVyBwI\/giphy.gif",
+                "image_width": 310,
+                "image_height": 232,
+                "image_bytes": 276882,
+                "is_animated": true,
+                "title": "meme fight",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/meme-fight-know-14dspyNocVyBwI"
+            }
+        ],
+        "ts": "1478119620.000768"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "giphy is love. giphy is life.",
+        "ts": "1478119620.000769"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy dark side",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/primark-star-wars-the-force-awakens-dark-side-3oEdvalAKvRqsmWY8g>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/3oEdvalAKvRqsmWY8g\/giphy.gif",
+                "image_width": 1500,
+                "image_height": 1500,
+                "image_bytes": 987775,
+                "is_animated": true,
+                "title": "dark side",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/primark-star-wars-the-force-awakens-dark-side-3oEdvalAKvRqsmWY8g"
+            }
+        ],
+        "ts": "1478119637.000770"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "giphy is love. giphy is life.",
+        "ts": "1478119637.000771"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy we have cookie",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/dark-side-ANzwWiU11kutO>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/ANzwWiU11kutO\/giphy.gif",
+                "image_width": 275,
+                "image_height": 273,
+                "image_bytes": 133706,
+                "is_animated": true,
+                "title": "we have cookie",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/dark-side-ANzwWiU11kutO"
+            }
+        ],
+        "ts": "1478119677.000772"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy cupcake dog",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/funny-adventure-time-impact-ox4uJOOoIMxUI>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/ox4uJOOoIMxUI\/giphy.gif",
+                "image_width": 365,
+                "image_height": 186,
+                "image_bytes": 644277,
+                "is_animated": true,
+                "title": "cupcake dog",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/funny-adventure-time-impact-ox4uJOOoIMxUI"
+            }
+        ],
+        "ts": "1478119693.000773"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy :slack:",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/producthunt-slack-bot-saywhatlol-l3fQ6i5VWXAMo1lYI>",
+                "image_url": "http:\/\/media.giphy.com\/media\/l3fQ6i5VWXAMo1lYI\/giphy-tumblr.gif",
+                "image_width": 500,
+                "image_height": 261,
+                "image_bytes": 1092293,
+                "is_animated": true,
+                "title": ":slack:",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/producthunt-slack-bot-saywhatlol-l3fQ6i5VWXAMo1lYI"
+            }
+        ],
+        "ts": "1478119733.000774"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "there is another gif program",
+        "ts": "1478119760.000775"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "hmmm",
+        "ts": "1478119761.000776"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "we must have them all",
+        "ts": "1478119765.000777"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy nervous laughing",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/laugh-LjWnY3wCwKcDe>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/LjWnY3wCwKcDe\/giphy.gif",
+                "image_width": 358,
+                "image_height": 294,
+                "image_bytes": 510034,
+                "is_animated": true,
+                "title": "nervous laughing",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/laugh-LjWnY3wCwKcDe"
+            }
+        ],
+        "ts": "1478119786.000778"
+    },
+    {
+        "type": "message",
+        "user": "U2BQQEXL0",
+        "text": "\/giphy one giphy to rules them all",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/3o85xtUqR9y8QjDbi0>",
+                "image_url": "http:\/\/media.giphy.com\/media\/3o85xtUqR9y8QjDbi0\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1218185,
+                "is_animated": true,
+                "title": "one giphy to rules them all",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/3o85xtUqR9y8QjDbi0"
+            }
+        ],
+        "ts": "1478119791.000779"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy tumblr",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/animated-cartoon-HZFhJUAHt8nqE>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/HZFhJUAHt8nqE\/giphy.gif",
+                "image_width": 500,
+                "image_height": 399,
+                "image_bytes": 135247,
+                "is_animated": true,
+                "title": "tumblr",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/animated-cartoon-HZFhJUAHt8nqE"
+            }
+        ],
+        "ts": "1478119795.000780"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "lol can we just confine it to this channel?",
+        "ts": "1478119798.000781"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy girls night out",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/realitytvgifs-drinking-khloe-kardashian-ufb3y12HHQlRC>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/ufb3y12HHQlRC\/giphy.gif",
+                "image_width": 500,
+                "image_height": 280,
+                "image_bytes": 828249,
+                "is_animated": true,
+                "title": "girls night out",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/realitytvgifs-drinking-khloe-kardashian-ufb3y12HHQlRC"
+            }
+        ],
+        "ts": "1478119819.000782"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy guys night out",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/paramourbway-broadway-cirque-du-soleil-paramour-3o7TKpY1PZuLJRWM6I>",
+                "image_url": "http:\/\/media.giphy.com\/media\/3o7TKpY1PZuLJRWM6I\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 129,
+                "image_bytes": 671195,
+                "is_animated": true,
+                "title": "guys night out",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/paramourbway-broadway-cirque-du-soleil-paramour-3o7TKpY1PZuLJRWM6I"
+            }
+        ],
+        "ts": "1478119826.000783"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy the mask",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/jim-carrey-thank-you-the-mask-nU704Y2jeFOHm>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/nU704Y2jeFOHm\/giphy.gif",
+                "image_width": 500,
+                "image_height": 230,
+                "image_bytes": 616980,
+                "is_animated": true,
+                "title": "the mask",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/jim-carrey-thank-you-the-mask-nU704Y2jeFOHm"
+            }
+        ],
+        "ts": "1478119844.000784"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/saywhat dark side:star wars",
+        "ts": "1478119848.000785"
+    },
+    {
+        "text": "",
+        "bot_id": "B2XU9EJSH",
+        "attachments": [
+            {
+                "fallback": "564x240px image",
+                "image_url": "https:\/\/saywhat.lol\/slg\/star%20wars\/01\/02\/7661040\/2833.gif",
+                "image_width": 564,
+                "image_height": 240,
+                "image_bytes": 2089168,
+                "is_animated": true,
+                "title": "dark side",
+                "footer": "Star Wars S01 E02",
+                "id": 1,
+                "title_link": "https:\/\/saywhat.lol\/share-gif\/star%20wars-s01e02-1206\/7661040\/2833.gif",
+                "color": "FAFA3B"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478119851.000786"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/saywhat awesome",
+        "ts": "1478119880.000787"
+    },
+    {
+        "text": "",
+        "bot_id": "B2XU9EJSH",
+        "attachments": [
+            {
+                "fallback": "320x240px image",
+                "image_url": "https:\/\/saywhat.lol\/slg\/family%20guy\/04\/17\/424296\/1080.gif",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 193071,
+                "is_animated": true,
+                "title": "awesome",
+                "footer": "Family Guy S04 E17",
+                "id": 1,
+                "title_link": "https:\/\/saywhat.lol\/share-gif\/family%20guy-s04e17-97\/424296\/1080.gif",
+                "color": "FAFA3B"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478119881.000788"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/saywhat league of legends",
+        "ts": "1478120044.000790"
+    },
+    {
+        "text": "",
+        "bot_id": "B2XU9EJSH",
+        "attachments": [
+            {
+                "fallback": "320x240px image",
+                "image_url": "https:\/\/saywhat.lol\/slg\/futurama\/02\/16\/997360\/4000.gif",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 1927020,
+                "is_animated": true,
+                "title": "league of legends",
+                "footer": "Futurama S02 E16",
+                "id": 1,
+                "title_link": "https:\/\/saywhat.lol\/share-gif\/futurama-s02e16-225\/997360\/4000.gif",
+                "color": "FAFA3B"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1478120047.000791"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "you can specify a show to search in also",
+        "ts": "1478120080.000792"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy catch:pokemon",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/pokemon-6TWv2f5p3XQSA>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/6TWv2f5p3XQSA\/giphy.gif",
+                "image_width": 500,
+                "image_height": 375,
+                "image_bytes": 905653,
+                "is_animated": true,
+                "title": "catch:pokemon",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/pokemon-6TWv2f5p3XQSA"
+            }
+        ],
+        "ts": "1478120098.000795"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "i like giphy better",
+        "ts": "1478120143.000799"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "she treats me good",
+        "ts": "1478120150.000800"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Oh my god, did you just assume their gender?",
+        "ts": "1478120150.000801"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "Gifcest?",
+        "ts": "1478120181.000802"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Object_sexuality>",
+        "ts": "1478120244.000803"
+    },
+    {
+        "type": "message",
+        "user": "U2BR1HW2V",
+        "text": "\/giphy shes to young for you",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/ofwgkta-mWz8OB97HZ5y8>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/mWz8OB97HZ5y8\/giphy.gif",
+                "image_width": 260,
+                "image_height": 146,
+                "image_bytes": 1253309,
+                "is_animated": true,
+                "title": "shes to young for you",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/ofwgkta-mWz8OB97HZ5y8"
+            }
+        ],
+        "ts": "1478120343.000804"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy romeo and juliet",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/romeo-and-juliet-DSjIpzMMOMfvy>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/DSjIpzMMOMfvy\/giphy.gif",
+                "image_width": 500,
+                "image_height": 229,
+                "image_bytes": 1006744,
+                "is_animated": true,
+                "title": "romeo and juliet",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/romeo-and-juliet-DSjIpzMMOMfvy"
+            }
+        ],
+        "ts": "1478120377.000805"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy 15 minutes",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/vera-farmiga-ilysm-15-minutes-rNnbNi1M2Gcbm>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/rNnbNi1M2Gcbm\/giphy.gif",
+                "image_width": 500,
+                "image_height": 179,
+                "image_bytes": 375668,
+                "is_animated": true,
+                "title": "15 minutes",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/vera-farmiga-ilysm-15-minutes-rNnbNi1M2Gcbm"
+            }
+        ],
+        "ts": "1478120457.000806"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy meme lord",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-lord-of-rings-PILPf6ZkqdqYo>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/PILPf6ZkqdqYo\/giphy.gif",
+                "image_width": 245,
+                "image_height": 120,
+                "image_bytes": 807394,
+                "is_animated": true,
+                "title": "meme lord",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-lord-of-rings-PILPf6ZkqdqYo"
+            }
+        ],
+        "ts": "1478123882.000807"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "*may may",
+        "ts": "1478123883.000808"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy triggered",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/nisekoi-triggered-eOWmPSyf0R8Na>",
+                "image_url": "http:\/\/media.giphy.com\/media\/eOWmPSyf0R8Na\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 137,
+                "image_bytes": 599597,
+                "is_animated": true,
+                "title": "triggered",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/nisekoi-triggered-eOWmPSyf0R8Na"
+            }
+        ],
+        "ts": "1478124000.000809"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "slackbot is the best thing to happen to slack",
+        "ts": "1478141859.000810"
+    }
+]

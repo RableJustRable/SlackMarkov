@@ -1,0 +1,80 @@
+[
+    {
+        "user": "U2BQB4ADS",
+        "text": "<@U2BQB4ADS|adampowe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473950172.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "<http:\/\/eqstl.com\/meet-the-winning-team-of-globalhack-5-inveo\/>",
+        "attachments": [
+            {
+                "service_name": "EQ",
+                "title": "Meet GlobalHack 5's Winning Team: Inveo",
+                "title_link": "http:\/\/eqstl.com\/meet-the-winning-team-of-globalhack-5-inveo\/",
+                "text": "Developers, designers and entrepreneurs alike converged at CIC @4240 this last weekend to help solve real problems facing St. Louis for GlobalHack with Team Inveo takings home the top prize.",
+                "fallback": "EQ: Meet GlobalHack 5's Winning Team: Inveo",
+                "image_url": "http:\/\/eqstl.com\/wp-content\/uploads\/2015\/09\/CO0lOPeUsAAAZCr-e1442334292542.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "ts": 1442342481,
+                "from_url": "http:\/\/eqstl.com\/meet-the-winning-team-of-globalhack-5-inveo\/",
+                "image_bytes": 48312,
+                "service_icon": "http:\/\/eqstl.com\/wp-content\/uploads\/2015\/08\/EQ-Logo_favicon2.png",
+                "id": 1
+            }
+        ],
+        "ts": "1473950373.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BQB4ADS",
+        "text": "This is a news story about the team that won last year in the professional division.",
+        "ts": "1473950395.000005"
+    },
+    {
+        "user": "U2BQQPXHA",
+        "text": "<@U2BQQPXHA|phil_boyd> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473950584.000006"
+    },
+    {
+        "user": "U2BQXETL5",
+        "text": "<@U2BQXETL5|brianc> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473957233.000002"
+    },
+    {
+        "user": "U2BPDGZA7",
+        "text": "<@U2BPDGZA7|rmkroll> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473958098.000003"
+    },
+    {
+        "user": "U2C2Q26DV",
+        "text": "<@U2C2Q26DV|paul> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473958515.000004"
+    },
+    {
+        "user": "U2BR1HW2V",
+        "text": "<@U2BR1HW2V|johncollins> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473982669.000002"
+    },
+    {
+        "user": "U2C9RB6TE",
+        "text": "<@U2C9RB6TE|samannin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473986648.000002"
+    }
+]

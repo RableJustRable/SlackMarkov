@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U2C9RB6TE",
+        "text": "<@U2C9RB6TE|samannin> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478544668.000002"
+    },
+    {
+        "user": "U2C9RB6TE",
+        "purpose": "THIS IS SPARTAhacks",
+        "text": "<@U2C9RB6TE|samannin> set the channel purpose: THIS IS SPARTAhacks",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1478544668.000003"
+    },
+    {
+        "user": "U2BR93Z6K",
+        "text": "<@U2BR93Z6K|latunska> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478545431.000004"
+    },
+    {
+        "user": "U2BQQEXL0",
+        "text": "<@U2BQQEXL0|airsick> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478547976.000005"
+    }
+]

@@ -1,0 +1,525 @@
+[
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy trump",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/election2016-rnc-election-2016-3o6ZsVbs2GzgKNvVpS>",
+                "image_url": "http:\/\/media.giphy.com\/media\/3o6ZsVbs2GzgKNvVpS\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 136,
+                "image_bytes": 826360,
+                "is_animated": true,
+                "title": "trump",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/election2016-rnc-election-2016-3o6ZsVbs2GzgKNvVpS"
+            }
+        ],
+        "ts": "1478706923.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy he",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/yUAldUUJsSVb2>",
+                "image_url": "https:\/\/media.giphy.com\/media\/yUAldUUJsSVb2\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1339671,
+                "is_animated": true,
+                "title": "he",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/yUAldUUJsSVb2"
+            }
+        ],
+        "ts": "1478709445.000003"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "What gender do you identify as",
+        "ts": "1478709529.000004"
+    },
+    {
+        "text": "I identify as an attack helicopter",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478709529.000005"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "spirit",
+        "ts": "1478709546.000006"
+    },
+    {
+        "text": ":spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit: :spirit:",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478709547.000007"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "what gender do you identify as",
+        "ts": "1478717917.000008"
+    },
+    {
+        "text": "I identify as an attack helicopter",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478717917.000009"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "who did you want to win?",
+        "ts": "1478717937.000010"
+    },
+    {
+        "type": "message",
+        "user": "U2C9RB6TE",
+        "text": "who won the election",
+        "ts": "1478717946.000011"
+    },
+    {
+        "text": "Who won the election? Nobody.",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478717946.000012"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "\/giphy overreaction",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/time-greatest-q1PfWcewCiPkc>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/q1PfWcewCiPkc\/giphy.gif",
+                "image_width": 350,
+                "image_height": 197,
+                "image_bytes": 803045,
+                "is_animated": true,
+                "title": "overreaction",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/time-greatest-q1PfWcewCiPkc"
+            }
+        ],
+        "ts": "1478720581.000013"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "\/giphy safe space",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/southpark-comedy-central-safe-space-19x05-3o85xwosfwwK9LmsZG>",
+                "image_url": "https:\/\/media2.giphy.com\/media\/3o85xwosfwwK9LmsZG\/giphy.gif",
+                "image_width": 763,
+                "image_height": 420,
+                "image_bytes": 652915,
+                "is_animated": true,
+                "title": "safe space",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/southpark-comedy-central-safe-space-19x05-3o85xwosfwwK9LmsZG"
+            }
+        ],
+        "ts": "1478720591.000014"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy i drink and i know things",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/preston-spurlock-v9CUPd5VVFrI4>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/v9CUPd5VVFrI4\/giphy.gif",
+                "image_width": 500,
+                "image_height": 200,
+                "image_bytes": 764060,
+                "is_animated": true,
+                "title": "i drink and i know things",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/preston-spurlock-v9CUPd5VVFrI4"
+            }
+        ],
+        "ts": "1478720595.000015"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "\/giphy implosion",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/fJcYJWdPPPNQI>",
+                "image_url": "https:\/\/media.giphy.com\/media\/fJcYJWdPPPNQI\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 121,
+                "image_bytes": 793942,
+                "is_animated": true,
+                "title": "implosion",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/fJcYJWdPPPNQI"
+            }
+        ],
+        "ts": "1478720610.000016"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "What gender do you identify",
+        "ts": "1478720615.000017"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "What gender do you identify as",
+        "ts": "1478720621.000018"
+    },
+    {
+        "text": "I identify as an attack helicopter",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478720622.000019"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "as",
+        "ts": "1478720622.000020"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "\/giphy gender fluid",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/channelfrederator-steven-universe-gender-fluid-neutral-aV4tChw5SPjBm>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/aV4tChw5SPjBm\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1863280,
+                "is_animated": true,
+                "title": "gender fluid",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/channelfrederator-steven-universe-gender-fluid-neutral-aV4tChw5SPjBm"
+            }
+        ],
+        "ts": "1478720632.000021"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "\/giphy adam",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/images-adam-sandler-BqBzCIqhqmgH6>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/BqBzCIqhqmgH6\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 903631,
+                "is_animated": true,
+                "title": "adam",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/images-adam-sandler-BqBzCIqhqmgH6"
+            }
+        ],
+        "ts": "1478720640.000022"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy modern terms for made up",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/modernism-9xFbCMtlvEWw8>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/9xFbCMtlvEWw8\/giphy.gif",
+                "image_width": 500,
+                "image_height": 375,
+                "image_bytes": 140446,
+                "is_animated": true,
+                "title": "modern terms for made up",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/modernism-9xFbCMtlvEWw8"
+            }
+        ],
+        "ts": "1478720646.000023"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy arianna grande",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/arianna-grande-love-cute-FEN38V9KEMFTa>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/FEN38V9KEMFTa\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1043828,
+                "is_animated": true,
+                "title": "arianna grande",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/arianna-grande-love-cute-FEN38V9KEMFTa"
+            }
+        ],
+        "ts": "1478720683.000024"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy hearts up",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/iheartradio-i-heart-radio-l2SqiPDuodZS8KGGs>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/l2SqiPDuodZS8KGGs\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 543748,
+                "is_animated": true,
+                "title": "hearts up",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/iheartradio-i-heart-radio-l2SqiPDuodZS8KGGs"
+            }
+        ],
+        "ts": "1478720692.000025"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy her",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/10kDmFpkwGiQDK>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/10kDmFpkwGiQDK\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 1445588,
+                "is_animated": true,
+                "title": "her",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/10kDmFpkwGiQDK"
+            }
+        ],
+        "ts": "1478720763.000026"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy bitch slap",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/victorcourtright-slap-slapping-animation-4maPzsZTtsMsE>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/4maPzsZTtsMsE\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 23123,
+                "is_animated": true,
+                "title": "bitch slap",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/victorcourtright-slap-slapping-animation-4maPzsZTtsMsE"
+            }
+        ],
+        "ts": "1478721434.000027"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy attack helicopter",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/game-awVnJuiOOnJYs>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/awVnJuiOOnJYs\/giphy.gif",
+                "image_width": 650,
+                "image_height": 366,
+                "image_bytes": 1152607,
+                "is_animated": true,
+                "title": "attack helicopter",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/game-awVnJuiOOnJYs"
+            }
+        ],
+        "ts": "1478721544.000028"
+    },
+    {
+        "text": "Oh my god, did you just assume their gender?",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478721544.000029"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy congradulations",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/usa-i-believe-that-we-will-win-women-soccer-smn3T7BYRThbW>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/smn3T7BYRThbW\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 869601,
+                "is_animated": true,
+                "title": "congradulations",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/usa-i-believe-that-we-will-win-women-soccer-smn3T7BYRThbW"
+            }
+        ],
+        "ts": "1478721556.000030"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "<@U2C2ZH39R>",
+        "ts": "1478721558.000031"
+    },
+    {
+        "text": "*giphy",
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1478721558.000032"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy yoga pants",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/prank-yoga-pants-69IFNt2LkZhdu>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/69IFNt2LkZhdu\/giphy.gif",
+                "image_width": 320,
+                "image_height": 180,
+                "image_bytes": 1430894,
+                "is_animated": true,
+                "title": "yoga pants",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/prank-yoga-pants-69IFNt2LkZhdu"
+            }
+        ],
+        "ts": "1478722227.000033"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy fake",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/rhony-aviva-drescher-leggate-qz6Aiui05Ljuo>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/qz6Aiui05Ljuo\/giphy.gif",
+                "image_width": 400,
+                "image_height": 225,
+                "image_bytes": 1719044,
+                "is_animated": true,
+                "title": "fake",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/rhony-aviva-drescher-leggate-qz6Aiui05Ljuo"
+            }
+        ],
+        "ts": "1478722259.000034"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy manlet",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-big-c-11EvC33jyBYDNm>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/11EvC33jyBYDNm\/giphy-tumblr.gif",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 444868,
+                "is_animated": true,
+                "title": "manlet",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-big-c-11EvC33jyBYDNm"
+            }
+        ],
+        "ts": "1478722568.000035"
+    },
+    {
+        "type": "message",
+        "user": "U2BPDGZA7",
+        "text": "\/giphy shame",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/face-guilt-UMNQoM6xapIti>",
+                "image_url": "http:\/\/media.giphy.com\/media\/UMNQoM6xapIti\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1017985,
+                "is_animated": true,
+                "title": "shame",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/face-guilt-UMNQoM6xapIti"
+            }
+        ],
+        "ts": "1478722755.000036"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy grease lightning",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/aaron-tveit-LwyrGRYIFeE12>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/LwyrGRYIFeE12\/giphy.gif",
+                "image_width": 500,
+                "image_height": 450,
+                "image_bytes": 1413734,
+                "is_animated": true,
+                "title": "grease lightning",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/aaron-tveit-LwyrGRYIFeE12"
+            }
+        ],
+        "ts": "1478724709.000037"
+    },
+    {
+        "type": "message",
+        "user": "U2C2ZH39R",
+        "text": "\/giphy white lightning",
+        "bot_id": "B2U1PEUPP",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/black-and-white-sky-storm-OJvbz9AXDyOMo>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/OJvbz9AXDyOMo\/giphy.gif",
+                "image_width": 250,
+                "image_height": 118,
+                "image_bytes": 173567,
+                "is_animated": true,
+                "title": "white lightning",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/black-and-white-sky-storm-OJvbz9AXDyOMo"
+            }
+        ],
+        "ts": "1478724720.000038"
+    }
+]

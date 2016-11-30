@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U2C2ZH39R",
+        "text": "<@U2C2ZH39R|quinn> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474925216.000002"
+    },
+    {
+        "type": "message",
+        "user": "U2DPNVB6X",
+        "text": "Name: Joshua Clouthier\nProject Experience: Q^2(for CapStone) class and backend development , System to order food from Pavilion(for SWE)",
+        "ts": "1474925849.000003"
+    }
+]
