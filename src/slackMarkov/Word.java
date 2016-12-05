@@ -5,10 +5,12 @@ import java.util.ArrayList;
 public class Word {
 	private String name;
 	private ArrayList<String> followWords;
+	private int startFreq;
 	
 	public Word(String name){
 		this.name = name;
 		followWords = new ArrayList<String>();
+		startFreq = 0;
 	}
 	
 	public void addWord(String word){
