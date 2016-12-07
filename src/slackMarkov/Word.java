@@ -13,10 +13,19 @@ public class Word {
 		startFreq = 0;
 	}
 	
+	/*	Adds given word (as a string) to the follow word list
+	 * Pre-Req: Word to add
+	 * Post-req: word is added to followWords list
+	 */
 	public void addWord(String word){
 		followWords.add(word);
 	}
 	
+	
+	/* Randomly chooses the next word to print based on the weighted distrubution of all words within its followWords list
+	 * Pre-Req: followWords has words in it. 
+	 * Post-req: one word from followWords
+	 */
 	//TODO optimize this
 	public String getNextWord(){
 		String output = null;
