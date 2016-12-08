@@ -22,6 +22,12 @@ public class Driver {
 		//displayIt(new File(testExportLocation));
 	}
 	
+	
+	/*Imports the users from the user.json folder its given. Iports as the user class, which contains both the unique slack ID as well as their username
+	* Pre-req: A folder which has a valid user.json file
+	* post: ArrayList full of user objects created using the users.json file
+	*
+	*/
 	private static ArrayList<User> importUsers(String folder) throws IOException{
 		ArrayList<User> output = new ArrayList<User>();
 		
@@ -39,7 +45,7 @@ public class Driver {
 		
 		return output;		
 	}
-	
+
 	private static ArrayList<String> getChannelNames(String folder) throws IOException{
 		ArrayList<String> output = new ArrayList<String>();
 		
@@ -60,6 +66,7 @@ public class Driver {
 		return output;
 	}
 	
+	//Displays the file structure for a folder. here for reference. 
 	public static void displayIt(File node){
 
 		System.out.println(node.getAbsoluteFile());
