@@ -13,9 +13,13 @@ public class Driver {
 	public static void main(String args[]) throws IOException{
 		JSONObject obj = new JSONObject();
 		ArrayList<User> userList = importUsers(testExportLocation);
-		System.out.print("Users: "+userList.size());
+		ArrayList<String> channelNames = getChannelNames(testExportLocation);
+		System.out.println("Users: "+userList.size());
+		System.out.println("Channels: "+channelNames.size());
 		
-		displayIt(new File(testExportLocation));
+		
+		
+		//displayIt(new File(testExportLocation));
 	}
 	
 	private static ArrayList<User> importUsers(String folder) throws IOException{
@@ -34,6 +38,26 @@ public class Driver {
 		}
 		
 		return output;		
+	}
+	
+	private static ArrayList<String> getChannelNames(String folder) throws IOException{
+		ArrayList<String> output = new ArrayList<String>();
+		
+		String fullFilePath = folder+java.io.File.separator+"channels.json";
+		String jsonContents = FileUtils.readFileToString(new File(fullFilePath));
+		
+		//JSONObject userFileJson = new JSONObject(jsonContents);
+		//JSONArray userArray = userFileJson.getJSONArray(null);
+		
+		JSONArray userArray = new JSONArray(jsonContents);
+		for (int i=0; i<userArray.length();i++){
+			JSONObject item = userArray.getJSONObject(i);
+			System.out.println(item.get("name"));
+			output.add(item.getString("name"));
+		}
+		
+		
+		return output;
 	}
 	
 	public static void displayIt(File node){
