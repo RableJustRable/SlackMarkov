@@ -112,6 +112,12 @@ public class User {
 		sb.append("\n");
 		sb.append(this.getID());
 		sb.append("\n");
+		sb.append("Total Messages:");
+		sb.append(this.totalMessages);
+		sb.append("\n");
+		
+		
+		/*
 		sb.append("Starting Words:\n");
 		//write out starting wordlist
 		for (String s:startingWords){
@@ -120,13 +126,17 @@ public class User {
 		}
 		
 		sb.append("\n");
+		//*/
 		
+		/*
 		sb.append("Full Wordlist:\n");
 		for (Word w:wordList){
 			sb.append(w.getName());
 			sb.append(" ");
 		}
 		sb.append("\n");
+		//*/
+		
 		return sb.toString();
 	}
 	

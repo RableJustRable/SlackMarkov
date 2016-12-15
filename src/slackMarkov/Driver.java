@@ -8,7 +8,7 @@ import org.json.*;
 
 public class Driver {
 	private static String UserName = System.getProperty("user.name");
-	private static String testExportLocation = "C:\\Users\\"+UserName+"\\Dropbox\\SlackExport\\data\\ACM Flint Slack export Nov 30 2016";
+	private static String testExportLocation = "C:\\Users\\"+UserName+"\\Dropbox\\SlackExport\\data\\ACM Flint Slack export Dec 8 2016";
 	private static String giphyBotId = "B2U1PEUPP";
 	private String exportLocation = testExportLocation;
 	private ArrayList<String> channelNames;
@@ -24,7 +24,9 @@ public class Driver {
 		System.out.println("Users: "+userList.size());
 		System.out.println("Channels: "+channelNames.size());
 		
-		importChannel("dankmemes");
+		for (String s:channelNames){
+			importChannel(s);
+		}
 		
 		//importChannelSubFile(exportLocation + "\\dankmemes\\2016-11-29.json");
 		
@@ -32,6 +34,11 @@ public class Driver {
 			if (dipshit.getTotalMessages()>0){
 				System.out.println(dipshit.dump());
 			}
+		}
+		
+		for (int i = 0; i < 10;i++){
+			User temp = findUserByName("johncollins");
+			System.out.println(temp.generateMessage());
 		}
 		
 		//displayIt(new File(testExportLocation));
@@ -69,7 +76,7 @@ public class Driver {
 	
 	private void importChannelSubFile(String fullFilePath) throws IOException{
 		//TODO this
-		System.out.println("Reading file: "+fullFilePath);
+		//System.out.println("Reading file: "+fullFilePath);
 		String jsonContents = FileUtils.readFileToString(new File(fullFilePath));
 		
 		JSONArray messageArray = new JSONArray(jsonContents);
@@ -139,6 +146,15 @@ public class Driver {
 	private User findUser(String id){
 		for (User u:userList){
 			if (u.getID().equals(id)){
+				return u;
+			}
+		}
+		return null;
+	}
+	
+	private User findUserByName(String name){
+		for (User u:userList){
+			if (u.getName().equals(name)){
 				return u;
 			}
 		}
